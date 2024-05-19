@@ -1,7 +1,4 @@
-# ExtendedCSides
-# https://gamebanana.com/mods/512920
-
-RecordCount: 627
+RecordCount: 1034
 
 console load Cdog/ExtendedCSides/2OldSiteC
    1
@@ -18,19 +15,22 @@ console load Cdog/ExtendedCSides/2OldSiteC
   40
 
 #lvl_a-00bva
-   6,R
-   6,R,J
-   7,R,D,X
+   6,R,D,X
+   4,R,J
+   2,R
+  14,R,D,X
    1,R,J
-   7,R
-  12,R,J
-  29,R,X
+  11,R,D,X
+   1,R,J
+   9,R
+   1
+  22,R,U,X
    4,L,G
-  12,L,J,G
-  12,K,G
-   4,J,G
-   1,R,J
-   5,J
+  10,J,G
+   1,L,J
+   1,K,G
+   1,R,K
+   3,K
   18,R,X
    4,L,J
   18,L,X
@@ -47,58 +47,73 @@ console load Cdog/ExtendedCSides/2OldSiteC
 #lvl_a-01
    5,R,J
    7,R
-   7,R,J
+   5,R,J
+   2,R
   20,R,X
    4,L,G
-   3,D
-   7,R,D
+   2
+   7,R
   16,R,Z
-   4,L,G
-  12,J,G
-  11,K,G
+#:(
+  80,L,G
+  11,J,G
+   1
+  10,K,G
+   1,K
    1,L,K
    1,J,G
    1,R,J
-   3,J
-  30,R,Z
-  72,R,G
-  13,L,D
+   2,J
+   1
+  20,R,X
+   8,R
+   9,L,D
+   1,L
   19,R,D,X
-   4,R,K
-   1,R,J
-  35,R,Z
+   4,R,J
+   1,R,K
+  34,R,Z
    4,L,G
-   4,J,G
-   1,K
-   3,R,K
+   4,L,J,G
+   4,R,K
    6,R,Z
    1,R,J
    7,R
   40
 
 #lvl_a-02
-  31,R,J
-  77,U,G
-  17,R,X
-   4,R,J
-   6,R,K
-  21,R,X
-  18
-  29,R
-  19,G
-   9,U,G
-   4,G
-
-  19,R,U,X
-   6,R,J
-   2,R
-   9,R,K
-  16,U,X
-  11,L,J,G
+   1,R,J
+  14,R,D,X
+  13,R,J
+  17,R,K,G
+  16,R,Z
+  16,L,U,G
+   8,L,G
+   1
+   1,J
+   2,K,G
+  32,R,K
+  15,R,X
+  17,R
+   4,L,G
+   1
+   1,J
+  14,L,J
+   7,L
+  15,L,G
+  27,R
+   6,R,D
+  25,R,Z
+   4,R
+   5,R,J
+  15,U,X
+   5,L,J,G
+   2,L
+   1,L,J,G
    1,K,G
    6,L
    1,R
-   5,R,J
+   4,R,J
    6,R,Z
    1,R,J
    7,R
@@ -112,7 +127,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
   22,U,X
    5,L
   18,L,X
-
   14,R,C
    4,R,J
    4,R,K
@@ -163,7 +177,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    4,R,J
   14,U,X
   21,L,J
-
   25,L,X
    4,L,J
   14,U,X
@@ -195,7 +208,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
   14,U,X
    2,R,J
    1,R,K,G
-
   10,R
   15,L,D,X
   15,D,C
@@ -245,7 +257,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    6,J
    1,R,J
    1,L,J
-
    2,K,G
    6,R,K
    5,L,K
@@ -267,7 +278,7 @@ console load Cdog/ExtendedCSides/2OldSiteC
    1,R,J
    1,L,K,G
    3,R,K
-  40,K
+  40
 
 #lvl_b-02
    4,R,K
@@ -284,7 +295,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    4,R,J
   37,L,D
   40,L,U,X
-
   15,R,U,C
    4,R,J
   10,R,K
@@ -293,7 +303,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    3,R
   30,R,Z
    4,R,J
-
    5,R,K
    2,K
    6,R,X
@@ -317,7 +326,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    3,L,K
    1,L,J,G
   18,L,U,X
-
    4,L,J
   13,L,X
    4,R,J
@@ -378,7 +386,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    2,L,J
   11,L
    6,J
-
   25,R,D,X
    6,R,Z
    1,R,J
@@ -417,7 +424,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    4,R,J
    3,R,K,G
    4,L,K
-
    1,R,K
    1,R,J,G
    1,R,K,G
@@ -446,7 +452,6 @@ console load Cdog/ExtendedCSides/2OldSiteC
    1,R,J
   11,R,D,X
    7,J
-
   17,L,D,X
    5,L,J
   13,L,D,X
@@ -462,3 +467,21 @@ console load Cdog/ExtendedCSides/2OldSiteC
   10,R,J
   15,R,U,X
   50,R,J
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000
+ChapterTime:
