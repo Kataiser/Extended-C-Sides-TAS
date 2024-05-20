@@ -1,4 +1,7 @@
-RecordCount: 1519
+# ExtendedCSides
+# https://gamebanana.com/mods/512920
+
+RecordCount: 2221
 
 console load Cdog/ExtendedCSides/1ForsakenCityC
    1
@@ -16,60 +19,55 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
   10,J,G
    1,L,J
    1,R,J
-  14,R,K,G
-  41,R,J,G
-  13,R,X
+  15,R,K,G
+  19,R,J,G
+  18,R
+  14,R,X
   17,R,J,G
    1,K
-  26,R,K
+  19,R,K
+   5,R
    1,J
-   6,L,J
+   1,L,J
+   5,J
    8,R,K
-   1,J
   40
 
 #lvl_a-01
-   1,J,G
-   9,R,J
-   1,L,J
+  10,R
+   1
   14,U,X
-  16,R,J
-  25,R
+  14,R,J
+  11,R
+   2,R,J
+  13,R
    1,R,J
-  16,R
-  15,D
-  11,L
+  19,R,D
+  21,L,D
   27,R,J
    1,R,K,G
-   0,K
-   1,R,K
    4,L,K
-   6,R,K
-   1,R,J,G
-  24,R,K,G
-   2,D
-  21,R,D
-   1,J,G
-  10,R,J
-   1,L,J
-   2,R,J
-   1,L,J
-   9,K,G
-   1,R,K
-   9,R,J
-  12,K
-   2,J,G
-   2,L,J
-   1,K
-   1,L,K
+   9,R,K
+   5,R,J,G
+  17,R
+  21,R,J
+  10,R
+  12,R,J
+   8,K,G
+   4,L,K
   11,J
    1,R,J
-   9,K,G
+   2,K,G
+   1,R,K
+   1,K
    1,R,K
    1,L,K
    1,R,K
-  13,R,J,G
-   2,K
+   1,R,J,G
+   1,L,J
+   7,R,J
+   6,R,K,G
+   6,L,K
   40
 
 #lvl_a-02
@@ -89,134 +87,146 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
   15,U,X
    1,R
   18,R,J
-  12,L,K
-  10,J,G
+   8,L,K
+   7,R,J
+   7,L,K
   40
 
 #lvl_a-03
-   4
-   1,J,G
+   2,L,J,G
+   5,R
+   1
+   1,J
+   2
+   4,Z
    1,R,J
-  17,L,J
-  23,U,G
-  11,G
-   1,J,G
-   1,R,J
-   1,L,K,G
-   1,L,J,G
-   6,K,G
-   1,R,K
-  15,U,X
-  44,L,G
-   1,J,G
-   1,R,J
-   1,L,K,G
-   1,L,J,G
-   3,R,J
+   6,R
+  14,R,J
+  16,U,X
    1,R
-   8,R,J
-   9,R,D
-  15,D,X
-  58,L,G
-   4,D,G
-   1,J,G
    1,R,J
-   1,L,K,G
-   1,L,J,G
-  20,R,J
-  11,U,X
-   6,R,J
-  19,R,D
-   7,D
-  34,L,G
-   4,D,G
-   1,J,G
-   1,R,J
-   1,L,K,G
-   1,L,J,G
+   5,R
    5,R,J
-   4,R
+   2,R
+   1,L,J
+  36,L,G
+   1
+   1,J,G
+   1,L,K,G
+   7,R,K
+   2,R
+   1,R,J,G
+  11,R
+  15,D,X
+   2,R,D
+   4,L,D
+  53,L,G
+   1
+   1,J,G
+   1,L,K,G
+  22,R,K
+  10,U,X
+  10,R,J
+  10,R
+  22
+  30,L,G
+   2,D,G
+   1,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   4,R,J
+   5,R
   14,R,U,X
-   3,R,J,G
+   2,R,J,G
    7,R
   40
 
 #lvl_a-04va
-   1,R,J
-   8,R
+   3,R,J
+   5,R
    1,R,D
    4,R,D,J
-   1,R,K,G
-   1,R
-   3,R,K
+   4,R
    1,L,J,G
    5,R,J
-  13,U,X
+  11,U,X
   14,R,J
-   2,R
-   2,R,J,G
-   3,R,D
-  33,R,D,X
-  11,R,G
-  15,U,G
-   5,G
-  16,U,X
-  21,R,J
+   1,J
+   4,R
+   1,R,K,G
+   4,R,D
   15,R,D,X
-  11,D
-  14,R,D
-  10,R,G
-  15,U,G
-   6,G
-  14,U,X
-   6,R,J
-   2,R
-  12,U,Z
-   9,R,J
-   8,R
-   4,R,J,G
-  32,R,D,X
-   6,R,Z
+   6,D
+   2,L,D
+   5,R
+  34,R,U,G
+   7,R,J
+   1,J
+   1,R
+   2
+   2,K
+  17,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1
+   1,R
+   1
+  15,R,D,X
+   8,D
+   3,R
+   1,R,D
+   1,R,G
    1,R,J
-   7,R
+  42,R,G
+   9,U,X
+  12,R,J
+  11,U,X
+  20,R,J
+  27,R,D,X
+   3,R
+   2,R,D
+   1,R
+   6,Z
    1,R,J
+   6,R
+   2,R,J
   40
 
 #lvl_b-00
-   5,R,J
-   1,J
-   2
-   5,R,K,G
+  12,R,J
   15,R,U,X
-  47,R,U,G
-   1,L,J
-   2,J
-  18,L,U,G
-  37,U,G
-   3,J,G
-   5,L,J
-   1,K
-  32,L,K
-  36,L,U,G
+  45,R,U,G
+   1,L,J,G
+   3,J
+  17
+   1,G
+   7,J,G
+  30,U,G
+   1,R,J,G
+   2,R,K,G
+   6,R,J
+  15,K
+  15
+   1,L
+  35,L,U,G
    1,J,G
    1,R,J
    1,L,K,G
    1,L,J,G
-   1,R,J
-   4,R
+   5,R
    7,R,D,X
    1,R,J,G
-  14,R,D
-  12,L,D
-  31,L,D,X
-   1,R,C
-  15,R,D,C
-  10,D
-   4,X
-  15,L,D,X
-  21,D
-  17,D
-   5,L,D
+   1,R
+  11
+  18,D,X
+  15,L,D,C
+  20,R,D
+  13,R
+  11,L,D
+   2,L
+  20,L,D
+  24,D
    9,L,D,X
    1,R,J
    7,R
@@ -224,8 +234,7 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    5,R,D,X
    1,R,J,G
    9,R
-   2
-  40
+  42
 
 #lvl_b-01
    1,R,D,J
@@ -243,60 +252,62 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    4,D
    9,R,D
   24,R,U,Z
-   6,R,V
+   7,R,V
    1,R,J
    7,R
    1,R,J
-   5,R,D,X
   40
 
 #lvl_b-02vb
-   9,R
+  14,R,D,X
    9,R,J
   14,R,Z
-   7,R,J
-  12,R
+   6,R,J
+   8,R
+   1,R,J
+   2,R
   14,R,Z
   15,R,J
   24,R,D
    1,D
    2
    1,D
-   1,R
+   1,R,D
    1,R,J,G
-  36,R,K,G
-   4,L,G
-   1,L,J,G
-  10
-   5,L,G
-   6,D,G
-   2,G
-   2,J,G
-   5
-   1,R
+   5,R
+   1,R,J
+   4,R
+   1,R,J
+   4,R
+   1,J
+   7,R,G
+   6
+   1,G
    1
-   1,R
-  13,L,G
+   1,G
+   2
+   2,J
+  15,R,X
+  12
+   1,L,G
    1,J,G
    1,R,J
-   1,L,K,G
+   1,K,G
    1,L,J,G
    5,R,J
-  54,R,G
-   7,L,J
-  13,R,J
-   6,R,Z
-   1,R,J
+  52,R,G
+   1,J,G
+  20,L,J
+   1,R,K
    7,R
+   6,Z
    1,R,J
-   7,R
-  15,D,X
-   5,R,D
-   4,R,Z
-   1,R,J
-   7,R
+   6,R
    3,R,J
-   7,R,U,X
+  17,R,D
+  14,R,D,X
+   2,R,J
+   9,R,U,X
   40
 
 #lvl_b-03
@@ -308,32 +319,41 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    2,R,J,G
   65,R,D
   12,R,U,X
-   6,R,J,G
-  19,R,D
-  10,D
-  15,R,D
    5,R,J,G
-  16,R
+   5,R
+   2,R,J
+   3,R
+  16,R,D
+   8,D
+   5,R,D
+   1,D
+   5,R,D
+   1,R,J,G
+   3,R,K,G
+  14,R
   10,R,D,X
    4,R,J
    1,R
   10,R,D,X
    5,R,J,G
-  13,R
-  14,U,X
-   9,R,J
-   2,L,J
+  10,R
+  16
+   8,L,J,G
+   1,R,K
+  11,R,J
+   7,K,G
+   5,J,G
+   4,R,J
+   5,R,X
+   3,R,J,G
+   5,R
+   3,R,J
+   1,R
    1,R,J
-   5,J
-   1,K,G
-   5,R,K
-   3,R
-   1,R,J,G
-  20,R,K,G
-  12,R,D
-   6,R,Z
+   2,R
+   7,Z
    1,R,J
-   7,R
+   6,R
   40
 
 #lvl_b-04
@@ -551,9 +571,7 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
   16,R,D
   15,D
    9,R,D
-   3,R
-   1,R
-   1,R
+   5,R
    1,R,J,G
    7,R
    1,R,J
@@ -658,4 +676,4 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
   14,R,U,X
  135
 
-ChapterTime: 1:33.585(5505)
+ChapterTime: 1:31.766(5398)
