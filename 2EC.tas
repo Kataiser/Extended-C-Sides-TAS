@@ -1,4 +1,4 @@
-RecordCount: 2420
+RecordCount: 2323
 
 console load Cdog/ExtendedCSides/2OldSiteC
    1
@@ -160,14 +160,11 @@ console load Cdog/ExtendedCSides/2OldSiteC
   17,R,X
   38,L,G
   15,L,X
-  20,R,G
-   5,D,G
-  12,R,G
-
+  34,R,G
   17,R,X
    4,R,J
   10,R,K
-  16,R,D,X
+  17,R,D,X
    1,R,J
   10,R,U,X
   40
@@ -189,14 +186,14 @@ console load Cdog/ExtendedCSides/2OldSiteC
   12,J,G
   12,K,G
    7,J,G
-   7,K,G
+   5,K,G
    4,R,K
    1,J
   14,U,X
   30,R,J
    1,K,G
   10,L,K
-  10,R,J
+   9,R,J
    1,K
   40
 
@@ -276,10 +273,9 @@ console load Cdog/ExtendedCSides/2OldSiteC
   12,R,U,C
    4,R,J
   10,R,K
-  20,R,D
-   4,R
-  15
-  31,R,Z
+  27,R,D
+  11
+  30,R,Z
    4,R,J
    5,R,K
    2,K
@@ -485,23 +481,21 @@ console load Cdog/ExtendedCSides/2OldSiteC
    1,R,K,G
   17,R,J,G
    2,R,K,G
-   3,K
-  20,U,X
-   5,R,J,G
-   3,R,K,G
-  11,K
-   5,R,J,G
-  20,R,C
-  16,U,X
-  14,L,J
-  23,L,C
-  15,U,X
-   4,J
-  11,L,J
+   2,K
+  18,U,X
+  26,U,C
 
+   2,L
+   2
+   1,L
+   4,R
+  10,R,J,G
+  15,U,X
+   1,R
+  12,J
+   6,L,J
   12,K,G
   12,J,G
-   1,K,G
   40
 
 #lvl_c-01
@@ -827,4 +821,4 @@ console load Cdog/ExtendedCSides/2OldSiteC
   15,U,X
  135
 
-ChapterTime: 1:57.215(6895)
+ChapterTime: 1:56.365(6845)
