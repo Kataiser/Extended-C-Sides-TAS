@@ -1,7 +1,4 @@
-# ExtendedCSides
-# https://gamebanana.com/mods/512920
-
-RecordCount: 4468
+RecordCount: 4524
 
 console load Cdog/ExtendedCSides/1ForsakenCityC
    1
@@ -634,11 +631,19 @@ endrepeat
    1,L,J
    1,K,G
    1,R,K
-  36,R,J
-  15,U,Z
-   6,R
-   4,L
-  12,J,G
+  11,R,J
+   1,R
+  15,R,U,Z
+   1
+   1,R
+   5
+   1,R
+   1
+   1,L,J,G
+   4,R,J
+   2,L,J
+   5,J
+   1
    1,K,G
   11,L,K
    4,J,G
@@ -793,4 +798,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:25.867(5051)
+ChapterTime: 1:25.459(5027)
