@@ -1,4 +1,4 @@
-RecordCount: 2492
+RecordCount: 2539
 
 console load Cdog/ExtendedCSides/2OldSiteC
    1
@@ -158,17 +158,20 @@ console load Cdog/ExtendedCSides/2OldSiteC
 
 #lvl_a-04
   18,R,J
- 117,R,G
-  20,R,U,G
+ 137,R,G
   17,R,X
-  38,L,G
+  41,L,G
   15,L,X
-  34,R,G
+  23,R,D,G
   17,R,X
    4,R,J
-  10,R,K
-  17,R,D,X
-   1,R,J
+   1,K
+   7,R,D,X
+   1,R,J,G
+   3,J
+   3,R,J
+  10,R
+   1,J
   10,R,U,X
   40
 
@@ -829,4 +832,4 @@ console load Cdog/ExtendedCSides/2OldSiteC
   15,U,X
  135
 
-ChapterTime: 1:55.668(6804)
+ChapterTime: 1:55.498(6794)
