@@ -1,7 +1,7 @@
 # ExtendedCSides
 # https://gamebanana.com/mods/512920
 
-RecordCount: 2040
+RecordCount: 2068
 
 console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
@@ -628,6 +628,7 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   10,L,J
   12,L
    1
+#abuse move block leniency an extra time here?
   37,G
   18,R,G
    1,R
@@ -638,8 +639,8 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   21,R,J
    5,R,D,X
   56,R,G
-  38,L,G
-   4,G
+  34,L,G
+   7,G
   12,J,G
   12,G
   12,J,G
@@ -892,4 +893,4 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    2,R
  135
 
-ChapterTime: 2:38.253(9309)
+ChapterTime: 2:38.236(9308)
