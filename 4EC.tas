@@ -1,7 +1,7 @@
 # ExtendedCSides
 # https://gamebanana.com/mods/512920
 
-RecordCount: 1237
+RecordCount: 1387
 
 console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
@@ -739,20 +739,22 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   11,R,J,G
    3,R
   20,R,J
-  16,R,D
-   6,R,X
-   2,R,J
-   4,R
-   1,R,J,G
-  15,R
-  35,R,J
-  22,R,D
-  15,R,X
-  11,J
+  14,R,D
+   2,D
    2
-  15,R,Z
-  13,L
-  11,R,J
+   4,R,Z
+   1,R,J
+   1,J
+   1,R,K,G
+   3
+   1,R,J,G
+  14,R
+  32,R,J
+  12,R,D
+   3,R
+  15,R,U,X
+  35,R
+
   13,U,X
   28,R,J
   15,R,X
@@ -769,31 +771,36 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   42,R,J
   18,R,D
    6,D
-   4,L,Z
+   5,L,Z
    1,R,J
-   4,R
-   9,R,J
-  16,R
-   4,R,J
-  17,R,Z
-  16,R,J
-  10,R,Z
-   6,R,J
-  13,R,Z
-  29,R,J
-  15,U,X
-  15,R,C
-  18,R,D,X
-  18,R,C
-   4,R
-  18,R,D,X
-  15,R,C
-  18,R,X
-   4,R
-  15,R,U,X
-  32,R
-  15,R,X
    5,R
+  10,R,J
+  16,R,D,X
+   4,R,J
+  15,R,K,G
+   1,K
+   4,R,K
+   9,R,D,X
+   1,R,J,G
+   1,R
+   2,R,K,G
+   6,R
+   4,R,J
+   2,R
+  11,R,J
+  15,R,U,Z
+  15,R,C
+  15,R,D,X
+  15,R,C
+   4,R
+  17,R,D,X
+  15,R,C
+  15,R,X
+  15,R,U,C
+  28,R
+   4
+  15,R,X
+   2
    4,R,Z
    4,R,J
    3,R,K,G
@@ -877,4 +884,4 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    2,R
  135
 
-ChapterTime: 2:43.285(9605)
+ChapterTime: 2:42.333(9549)
