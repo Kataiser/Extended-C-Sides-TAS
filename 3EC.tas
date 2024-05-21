@@ -1,7 +1,7 @@
 # ExtendedCSides
 # https://gamebanana.com/mods/512920
 
-RecordCount: 1520
+RecordCount: 1691
 
 console load Cdog/ExtendedCSides/3CelestialResortC
    1
@@ -234,7 +234,7 @@ console load Cdog/ExtendedCSides/3CelestialResortC
    1,R,J
    4,R
   40
- 
+
 #lvl_a-06
    2,R
   14,R,J
@@ -683,50 +683,59 @@ EndRepeat
 
 #lvl_c-01
    4,R
-   8,R,J,G
-   6,R
-  23,R,U,X
-   5
+   1,R,J,G
+   6,R,K,G
+   5,R
+   1,R,J
+   1,R
+  24,R,U,X
    8,L,Z
    1,R,J
    6,R
-   5,R,J
-  12,R
+   4,R,J
+  13,R
   14,R,U,X
-   1,R,J,G
-  37,R,D
+   1,J,G
+  11
+   9,R,Z
+   3,R,J
+  16,R
   40
 
 #lvl_c-02
-  13,R,D,X
-   7,R,J
-   3,K,G
-   1
-  22,Z
-  27,V
+  15,R,D,X
+  14,R
+   1,R,J
+  27,R,Z
   10,X
-   6,J
+   7,J
   13,U,X
    7,R,J
-  27,R,D
-   9,R,J
-  11,R
+  25,R,D
+   6,D
+  12,R,J
+   7,R
    1,R,J,G
-  12,R,K,G
-  70,R,D
-   8,R
-   1,R,D
-  18,R,Z
-   4
-   4,V
+   5,R,K,G
+   8,R,D
+   3,D
+  10,R,D
+  13,R,J
+  43,R,D
+   4,D
+   4,R,D
+   4,R
+   2,R,D
+
+  17,R,Z
+   6
+   4,Z
    1,R,J
-   1
    6,R
    9,R,J
   16,R,D,X
    1,R,J
-  11,R
-   3
+  14,R,D,X
    1,R,J
    5,R,D,X
   40
@@ -739,69 +748,54 @@ EndRepeat
    9,U,X
   13,R,J
    1,R,K,G
-  33,R,D
+  33,R,D,C
    1,R,G
    9,R,J
    8,U,X
   13,R,J
    1,R,K,G
    5,R
-  38,D
-   1,L
-  10,R,J
-  16,R
-  12,U,X
-  10,J
-   3,R,J
-  17,R
-   4
-   1,R,J
-   6,R
-  15,R,D,X
-   6,R,D
+  14
+  31,R
+  15,U,Z
+  16,R,J
+   2,R,K,G
+  26,R
+  11,R,D
    3,R
-   1,R,D
+  14,R,Z
+   1,R,J
    5,R
-   8,L,Z
-   1,R,J
-   6,R
-   1,R,J
-   5,R,U,X
   40
 
 #lvl_c-04
-   4,R,U,X
-   1,L,J,G
-   7,R,J,G
-  15,R,D,X
-   9,R,J
-   5,R,D,X
+   1,R
+   1,R,J
+  13,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+   4,R
   10,R,J,G
    5,R
-   3,R,J
-   7,R
-#get enough speed to go over spinners?
    1,R,J
-  18,R
-   1,R,J
-   3,J
-  17,R,D,X
-   8
-  11,D,X
-  15,L
-  15,R,U,X
-  46,R,D
-   8,R
-  15,R,D,X
-   3,R
-   5,R,D
-   1,R,J,G
-   1
-   1,R,J,G
-   7,R
+   9,R
+  14,R,D,X
+   7,R,J
+  23
+   8,R,G
+   7,J,G
+  15
+  11,G
+   2,R,J,G
+  10,R,K,G
+   5,R
+
+  40,R,Z
+  30,R,X
    4,Z
    1,R,J
-   6,R
+   7,R
   12,R,J
   15,R,D,X
    1,R,J
@@ -912,4 +906,4 @@ EndRepeat
   14,R,U,X
  137
 
-ChapterTime: 2:08.996(7588)
+ChapterTime: 2:08.282(7546)
