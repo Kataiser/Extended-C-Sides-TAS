@@ -1,4 +1,4 @@
-RecordCount: 1229
+RecordCount: 1259
 
 console load Cdog/ExtendedCSides/7SummitC c-00
    1
@@ -238,24 +238,13 @@ console load Cdog/ExtendedCSides/7SummitC c-00
    5,R
   27,R,Z
    4,R
-  18,L,X
-   6,J
-   2,L,J
-  15,U,X
-  18,R,C
-## Frame times
-#   4,R,J
-#   2,R,K
-#   5,R
-#   1,R,J,G
-#   4,R
-#   7,R,D,X
-##
+  24,L,U,X
+   4,R,G
+  14,R,X
    4,R,J
-  10,R,K
-   8,R,D,X
-# AAAAAAA
-   1,R,D,X
+   5,R,K
+   5,R
+   9,R,D,X
   45
   15,L,U,X
    4
@@ -317,7 +306,7 @@ console load Cdog/ExtendedCSides/7SummitC c-00
    5
   15,U,Z
  295
-MidwayFileTime: 0:47.702(2806)
+MidwayFileTime: 0:47.464(2792)
    4
 
 #lvl_d-00
