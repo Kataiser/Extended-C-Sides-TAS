@@ -1,11 +1,10 @@
-RecordCount: 775
+RecordCount: 886
 
 console load Cdog/ExtendedCSides/7SummitC b-00
    1
 
 #Start
   36
-
 #lvl_b-00
 #  12,L,J
 #   1,K
@@ -24,24 +23,32 @@ console load Cdog/ExtendedCSides/7SummitC b-00
 #   1,K
 #   1,L,K
 
-  12,L,J
-   1,K
-  12,R,J
-   1,K
-   1,J
-  22,L,J
-  32,R,K
+   8,L,J
+   1,K,G
+   1,R,K
+   1,L,K
+   2,J,G
+   9,R,J
+
+   1,K,G
+   1,L,K
+   1,R,K
+   2,J,G
+  20,L,J
+  19,R,K
+   1,R
+  11,R,J
   15,U,X
    1
-   3,R
+   4,R
   14,R,J
    3,L,J
    5,J
    1,L,J
   15,U,X
    3,R
-   1
-  39,R,J
+  38,R,J
+   1,R
    6,R,Z
    1,R,J
    8,R
@@ -51,7 +58,7 @@ console load Cdog/ExtendedCSides/7SummitC b-00
    4,R
    1
   40
-
+#-3f
 #lvl_b-01
    1
    1,R,D,J
@@ -103,7 +110,6 @@ console load Cdog/ExtendedCSides/7SummitC b-00
    5,R
    1
   40
-
 #lvl_b-02
    3
   15,R,U,Z
@@ -123,26 +129,24 @@ console load Cdog/ExtendedCSides/7SummitC b-00
 #bad!
   19,R,J
   15,U,X
-   3,L
-  15,L,C
   14,L,Z
   11,R,J
-  33,R
-   2,R,D
-  14,R,U,X
-   6,R,J,G
-  15,R
-  14,R,X
-  11,R,J,G
-   5,R
-   3,R,J
+  36,R
+   6,R,J
    2,R
-   1,R,K,G
+  10,R,J
+  14,R,Z
+   3,R,J,G
+   1,R
   10,R
-   4,Z
+  14,R,Z
+  12,R,J,G
+   9,R,D
+   1,R,J,G
+  11,R,D
+   4,R,Z
    3,R,J
   40
-
 #lvl_b-03
 #idk what im doing
    8,J
@@ -167,7 +171,6 @@ console load Cdog/ExtendedCSides/7SummitC b-00
    1,R,J
    6,R
   40
-
 #lvl_b-04
    4,R
   10,R,D,X
@@ -270,7 +273,7 @@ console load Cdog/ExtendedCSides/7SummitC b-00
    1,K
   11,J
  366
-MidwayFileTime: 0:37.111(2183)
+MidwayFileTime: 0:37.026(2178)
    4
 
 #lvl_c-00
