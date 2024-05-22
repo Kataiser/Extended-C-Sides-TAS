@@ -2,88 +2,72 @@ RecordCount: 577
 
 console load Cdog/ExtendedCSides/7SummitC 11832, -5936
    1
-#animation waiting time
+
 #Start
   72
 
 #lvl_d-00
-   2,R
-  15,R,J
-   8,U,X
-   9,R,J
-   1,R,K,G
-   5,R
-  13,R,D,X
-  21,R,J
-  15,R,X
-   8,R
-  15,D,X
-   5,R,D
-  15,R,X
-   7,R
-  15,R,Z
-  15,R,D
-   6,L,D,X
-   9,L,D
-  15,D,X
-  15,R,D,C
-   2,R
-  15,R,C
-  15,R,D
-  15,R,X
-  18,R,D
-   8
-  11,L
-  15,R,U,Z
+  15,R,U,X
+  11,R,J
+   1,K
+   5,L,K
+   5,R,Z
+   1,R,J
+  12,R,D
+  30,R,J
+  21,R,D
+  16,R,Z
+  20,R,V
+  39,R,D
+  16,R,Z
+  15,R,V
+  35,D
+   5,L
+   4
+  15,R,U,X
   13,R
   11,R,D,X
    1,R,J
    7,R
-   6,L,Z
-   1,R,J
-   7,R
-   1,R,J
+   8,R,D,J
   40
 
 #lvl_d-01
-  14,R,D,X
-   1,R,J
+   6,R,J
   15,R,D,X
-   6,R
-  11,L,D,X
-   4,R,J
-  15,R,U,X
-   3,R,J
-  15,R,Z
-  15,R,D
-   3,L,J
-  10,R,J
-  15,R,U,X
-   3,L
-   8,R,Z
-   1,J,G
-  10,R
-   3,L
-   8,L,J
-  15,R,D,X
-  22,R,D
-  15,R,X
-   9,D
+  18,R,D,C
+   4,D
+   2,R,J
    2,R
-  12,R,J
   15,R,U,X
-  19,R,J
-   3,L,J
-  14,R,Z
+  30,R,Z
+   2,J
+   2,R,J
+  10,J
+  15,R,U,X
+  10,R,Z
+   4,J
+  12
+  16,R,D,X
+  26,R,C
+   4,R,J
+   4,J
+  15,R,U,X
+  22,R,C
+   6,Z
    1,R,J
-  14,R,D,X
+   7,R
    1,R,J
+   8,R,D,X
   40
+
 #lvl_d-02
-  15,R,D,X
-  15,D,C
-   8,L
-   3,R
+   6,R,D,X
+   3,R,J
+   2,R
+  16,D,C
+   7,L
+   4
   14,R,U,X
    1,R,J,G
   18,D
@@ -127,6 +111,7 @@ console load Cdog/ExtendedCSides/7SummitC 11832, -5936
   18,U,X
    8,U,C
   40
+
 #lvl_d-03
   10,U,C
   17,R,J
@@ -166,17 +151,14 @@ console load Cdog/ExtendedCSides/7SummitC 11832, -5936
   15,R,Z
   13,L,D
   14,R,Z
-  26
-  20
+  46
    4,R
   15,L,X
   15,L,U,C
   10,U,Z
    3,R,J
-  26
-  30
+  56
   15,U,X
-
    6,R
   12,L,U,X
    6,J,G
@@ -245,15 +227,13 @@ console load Cdog/ExtendedCSides/7SummitC 11832, -5936
   30,R
   15,R,X
   11,R,C
-  26
-  20
+  46
   14,L,U,X
   12,L,J,G
   15,U,X
-   4
- 288
+ 292
 
-MidwayFileTime: 0:52.411(3083)
+MidwayFileTime: 0:51.034(3002)
 
 #lvl_e-00
   72
