@@ -6,9 +6,6 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
 #Start
   61
 
-#Spinner cycle [b-03]
-   2
-
 #lvl_a-00va
   10,R,Z
    1,R,J
@@ -31,10 +28,13 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   13,U,X
   10,R,J
   15,R,X
-  25,R,D
+  23,R,D
+   1,R
+   1,R,D
    4,R,Z
    1,R,J
-   7,R
+   6,R
+   1,R,J
   40
 
 #lvl_a-01
@@ -66,21 +66,25 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    1,R,K
    3,R
   14,R,U,X
-  12,R,J,G
-   5,R
-   3,R,K
-  13,R
-  33,R,K
+   5,R,J,G
+  20,R
+   3,R,J,G
+   7,R
+  20,R,J
+  10,R
   15,R,U,X
-  11,R
+   9,R
    4,R,Z
    1,R,J
-  29,R,D
+  25,R,D
+   2,R
+   2,R,D
   10,R,J
   15,R,U,X
    9
-   8,J
-  15,U,X
+   7,K
+#save a frame here?
+  16,U,X
   40
 
 #lvl_a-02vb
@@ -134,9 +138,10 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    1,K,G
   10,R
    8,R,J
-  14,U,X
-  17,J
-  10,R,K
+  15,U,X
+  14,J
+   3,R,J
+   8,R,K
   40
 
 #lvl_a-03
@@ -207,42 +212,46 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
    6,J
    7,L,Z
-  23,R,J
-   6,R,Z
+  18,R,J
+   1,R
+   4,R,J
+   7,R,Z
    1,R,J
-   7,R
+   6,R
   40
 
 #lvl_a-04
    1,R,J
-  10,R,D,X
-   1,R,J
-   7,R
-   2,R,J
-  12,R,U,X
-  13,U,C
+  14,R,D,X
+   3,R,J
+  14,R,U,Z
+  12,U,C
   14,R,J
   15,R,X
   15,R
   13,U,X
   12,L,J
-  10,L
-   6,L,J,G
+   8,L
+   2,L,J
+   1,L,K,G
+   3,K
+   1
+   1,L
   15,R,U,X
   15,R,U,C
    9,R
-   6,R,Z
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    8,R,D,X
   40
 
 #lvl_a-05
-   5,R,D,X
+   6,R,D,X
    1,R,J
-   7,R
-  12,R,J
+  13,R,D,X
+   7,R,J
   15,R,X
    5,R
   10,U,X
@@ -256,65 +265,71 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    1,R
   10,U,X
   19,R,J
-  20,R
-   9,R,J
-  38,R,D
-  15,R,X
-   6,R
+  11,R
+   1
+   1,R
+   6
+   1,R
+   4,Z
+   1,J
+  12
+   1,R
+  17,D
+   3,R,D
+   4,R
+   1,R,J,G
+  23,R,K,G
   13,U,X
   25,R,J
-  15,R
+  15,R,D
   14,R,Z
    1,R,J
-  13,R,D,X
+   6,R
+   5,R,D,J
+   1,J
   40
 
 #lvl_b-00
-   1,R,D,X
-   2,R,J
-   4,R
-  14,R,D,X
-   1,R,J
+   6,R,J
   15,R,D,X
-   9,R,D
-   1,D
-   1,R,D,J
-  14,R,D,X
-   2,R,J
-   3,R
+   1,R,J
+  24,R,D,X
+   9,R,J
+   6,R
+   7,R,D,X
   40
 
 #lvl_b-00b
-   1,R,K
-   2,K
-   8
-   5,L,D,X
+   8,R,D,X
+   1,J
    1,R,J
-   6,R
-   8,R,J
-   7,R
-   1,R,J
-   1,R
-   9,R,U,X
+   2,R
+   3
+   1,J
+   3
+   1,J
+  14,R,U,X
    1,R,J,G
-   5,R
-   1,R,K
-  21,R
-  15,R
-  10
-  12,R,J
+   2
+  35,R
+   8
+
+   5,R,J
+   9,J
+   1,R,J
    5,R,X
    8,R,J,G
    5,R
   18,R,D,X
-  11,R
-   7,R,D
+  10,R
+   8,R,D
   11,R,X
    1,R,J,G
   15,R
    3,R,J
-   6,R
-   6,R,J,G
+   5,R
+   1,R,J
+   6,R,K,G
   15,R,D,X
   18
   10,R,J
@@ -946,4 +961,4 @@ EndStunPause
    1,R,D
   98,D
 
-ChapterTime: 2:24.670(8510)
+ChapterTime: 2:24.262(8486)
