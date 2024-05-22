@@ -1,10 +1,13 @@
-RecordCount: 3879
+RecordCount: 4167
 
 console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
 
 #Start
   61
+
+#Spinner Cycle
+   2
 
 #lvl_a-00va
   10,R,Z
@@ -26,52 +29,61 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   15,R,X
   18,R
   13,U,X
-  10,R,J
+   6,R,J
+   3,R
+   3
   15,R,X
-  23,R,D
-   1,R
-   1,R,D
-   4,R,Z
+  14,R
+   4,R,D
+   1,L
+   1,L,D
+   5,L
+   2,L
+   4,Z
    1,R,J
-   6,R
-   1,R,J
+   5,R
+   6,R,D,J
   40
 
 #lvl_a-01
-  22,R,J
-  15,U,X
+  11,R,J
+   1,L,K,G
+   3,R,K
+   6,R
+   1
    1,R
-   1,R,J
-   3,R
-   2
-   3,R
-   1,R,J,G
-   1,R,K,G
-  34,R
-  23,R,J
+   1,L
+   5,J,G
+   9,R,J
+  12,K,G
+   1,J,G
+   1,L,J
+  15,K
   15,U,X
-  20,L,J
-  15,L,U,X
-   6,L
-  14,U,X
-   9,J
+   2
+   1,R
+   5,R,J
+  13,L,J
+   4,K,G
+   1,L,K
+   1,R
+   6
+   4,J
+  13,U,X
   40
 
 #lvl_a-01b
-   1
-   8,R
-   1,R,J,G
-   8,R,K,G
+   7
+  25,R,J
+  14,R,X
+   4,R,J,G
    5,R
-   1,R,K
-   3,R
-  14,R,U,X
-   5,R,J,G
-  20,R
-   3,R,J,G
-   7,R
-  20,R,J
-  10,R
+   1,R,J
+   9,R
+   6,R,J
+   5,R
+   2,R,J
+   5,R
   15,R,U,X
    9,R
    4,R,Z
@@ -313,7 +325,6 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    2
   35,R
    8
-
    5,R,J
    9,J
    1,R,J
@@ -459,43 +470,37 @@ EndStunPause
   18,R,U,X
   15,U,C
    1,L,J,G
-  10,L
-   2
-#Spinner cycle
-   2
-##
+   5,L
    2,L,J
    4,L
-   8,R,Z
-  15,R,J
-  15,R,X
-  12,R,D
-   4,R,J
-   3,R
-  15,R,D,X
-  10,R
-   4,R,D
-StunPause
-  20,R,D
-EndStunPause
-   1,R,D
-   6,R,D,J
+   3
+   4,Z
+   1,R,J
+   2,R
+   2,R,J
+   1,R
+  12,R,J
    5,R
-   1,R,K
-   6,R
-   1,R,J,G
-   2,R,K,G
+   4,R,J
+  15,R,D,X
+   7,D
+   1,R,D
+   2,D
+  22,R,D
+   5,R
+  10,R,J,G
+  14,R
+   3,R,J,G
+  10,R
+   1
+   9,R,J,G
    7,R
-   7,R,J,G
-   6,R
-   1,R,K
-   9,R
+   3,R,J
+   8,R
    9,R,K,G
    5,R
    2,R,K
-   3,R
-   1,R,K
-   5,R
+   9,R
   15,R,U,Z
    4,R
    5
@@ -824,7 +829,7 @@ EndStunPause
   15,R,D,C
    2,R,D
 #Spinner cycle
-   1
+   0
 ##
   15,R,X
    5,R
@@ -897,6 +902,8 @@ EndStunPause
    4,R,J,G
    7,R
   40
+
+#lvl_c-06
 # Speed is pretty useless
   14,R,D,X
    4,L,J
@@ -961,4 +968,4 @@ EndStunPause
    1,R,D
   98,D
 
-ChapterTime: 2:24.262(8486)
+ChapterTime: 2:21.083(8299)
