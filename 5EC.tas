@@ -1,4 +1,4 @@
-RecordCount: 5511
+RecordCount: 5512
 
 console load Cdog/ExtendedCSides/5MirrorTempleC
    1
@@ -118,22 +118,22 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    1,R,J
    6,R
    6,R,J
-   9,R,K,G
-  10,U,X
-   4,R,J
    1,R,K,G
-  12,R
-   4,Z
+   3,R,J
+   2
+   2,R
+  12,U,X
    1,R,J
-   4,R
+   1,R,K
+   7,R
+   6,Z
+   1,R,J
+   7,R
+   1,R,J
   40
 
 #lvl_a-02
-   1,R
-   1,R,J
-   1,R
-   3,R,J
-  10,R,U,Z
+  13,R,U,Z
   17,U,C
    7,R,X
    8,R,J,G
@@ -156,42 +156,44 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    4,R
    1
    1,R,J,G
-   2,R,K,G
-   5
+  11,K,G
+   3,K
   15,U,X
-  25
-   1,R
-   9,R,D
+  16,D
+  11,R,D
    1,R,J,G
    8,R,K,G
   19,R
    3,R,J
   15,R,X
-  14,R,D,C
+  15,D,C
+   4,Z
+   1,R,J
+   4,R
   40
 
 #lvl_a-03
-   5,R
-   1,R,J
-   9,R
-   1,R,J
-  10,R,U,X
+   3,R
+  10,R,J
+   6,R
    3,R,J,G
   11,R
-  20,R,J
+   8,R,J
    5,R
-   1,R,K,G
-   3
-   1,L
-   3,R
-   1,L
-   5,U,X
-  17,L,J
+   3,R,J
+  18,R,X
+   7,U,C
+  18,L,J
    6,L,K,G
    2,L,J,G
-  14,L,K,G
-  53,R
-   8
+   1,J
+   8,L,J,G
+   1,L,J
+   2,J
+   2,L,J
+   1,J
+  52,R
+   5
   30,R,X
   14,U,C
    3,R,J
@@ -209,10 +211,12 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    5,L
    1,L,J,G
    1,K,G
-   3,L,K
-   7,K
-  10,R,K
-  15,R
+   2,L,K
+   5,K
+   2,L,K
+   1,K
+   8,R,K
+  16,R
    4,Z
    1,R,J
   12,R
@@ -229,13 +233,11 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
   40
 
 #lvl_a-04
-   6,R
-   2,R,J
-   7,R,X
-  27,R,J
-  14,R,U,X
-  31,L,C
-   3,L
+   8,R
+  14,R,X
+  20,R,J
+  13,R,U,X
+  34,L,C
   16,L,J
    5,U,X
    3,R,J
@@ -371,7 +373,7 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
 #lvl_b-00 (1)
   11,L
 ## spinner cycle
-   1,G
+   2,G
 ##
   15,D,X
    2,D
@@ -1162,6 +1164,9 @@ EndStunPause
 ## spinner cycle
    0
 ##
+## drift cycle I guess
+   3
+##
   27,R,C
   10,U,X
   13,R,J
@@ -1493,4 +1498,4 @@ Repeat 21
 EndRepeat
    1,R,J
 
-ChapterTime: 3:13.018(11354)
+ChapterTime: 3:12.916(11348)
