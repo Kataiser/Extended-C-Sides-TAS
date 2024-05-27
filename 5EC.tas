@@ -1,13 +1,10 @@
-RecordCount: 6014
+RecordCount: 6052
 
 console load Cdog/ExtendedCSides/5MirrorTempleC
    1
 
 #Start
  190
-## drift cycle I guess
-  18
-##
 
 #lvl_a-00
    6,R,D,X
@@ -1202,32 +1199,22 @@ StunPause
 EndStunPause
    6,R,J,G
 StunPause
-   2,R,J,G
-   4,R,G
+   3,R,J,G
 EndStunPause
-   1,R,J,G
-StunPause
-   2,R,J,G
-EndStunPause
-   6,R,J,G
-   1,R,G
-   1
-  15,R,U,X
-   1,J
-   7
+  12,R,J,G
+  25,R,U,X
    4,Z
    1,R,J
-  13,R,G
+  13,G
+   8,R,G
    1,R,J,G
-  15,R,G
-   1,R,J,G
-   6,R,G
+  14,R,G
    1,R
-  10,R,D,X
+   9,R,D,X
   40
 
 #lvl_d-04
-   4,R,D,X
+   5,R,D,X
    1,R,J
   12,R,D,X
   13,R,G
@@ -1491,4 +1478,4 @@ Repeat 21
 EndRepeat
    1,R,J
 
-ChapterTime: 3:12.916(11348)
+ChapterTime: 3:12.236(11308)
