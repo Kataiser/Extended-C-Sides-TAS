@@ -1,4 +1,4 @@
-RecordCount: 6492
+RecordCount: 7210
 
 console load Cdog/ExtendedCSides/5MirrorTempleC
    1
@@ -237,6 +237,7 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    2,R,J
    1,R
   40
+
 
 #lvl_a-04
    8,R
@@ -1178,6 +1179,7 @@ EndStunPause
    8,R,G
   40
 
+
 #lvl_d-03
    7,R,G
   12,J,G
@@ -1208,124 +1210,139 @@ StunPause
    3,R,J,G
 EndStunPause
   12,R,J,G
-  25,R,U,X
-   4,Z
+  15,R,U,X
+   1,R,J,G
+   7
+   3,L
+   4,R,Z
    1,R,J
   13,G
-   8,R,G
    1,R,J,G
-  14,R,G
-   1,R
-   9,R,D,X
+  15,R,G
+   1,R,J,G
+   5,R,G
   40
 
 #lvl_d-04
-   5,R,D,X
-   1,R,J
-  12,R,D,X
-  13,R,G
+   9,R,G
    1,R,J,G
   14,R,G
-   2,R,J,G
-   5,R,G
-   2,R
-  20,U,X,G
-  13
-  28,D
-   6,L,D,X
-   1,R,J
-   7,R
-   1,R,J
-   8,R,U,X
-  30,R,J,G
-   1,R
-   3,R,J,G
-   7,R
-   9,L,Z
+  10,R,J,G
+   4,R,G
+   9,R,U,X
+  13,G
+   3,R
+  20
+  21,L,D,X
+   2,L
+   2,L,D
+   5,Z
    1,R,J
    6,R
-   1,R,J
-  10,R,D,X
-  17,R,G
-  19,R,K,G
-   1,R,G
-   6,R,J,G
-  25,R,D,G
-  17,R,G
-   1,R
-  15,R,X
-  18,R,U,C
-   5,R,X
-  26,R,G
-   1,R,J,G
-  14,R,G
-  12,R,J,G
-   1,R
-   8,U,C
-   8,R,J
-  17,R,J,G
-   9,R,K,G
-   1,R
-  24,L,D,X
-   7,R,Z
-   1,R,J
-  16,R
-  32,R,D,G
-   1,R
-   3,R,D
-   3,R
   12,R,J
-   2,K,G
+  15,R,D,X
+   1,R,J
+  13,G
+  12,R,J,G
+   1,R,J
+   1,K
+   5,L
+  10,R,Z
+   2,R,J
+   4,R,K,G
+  13,R,D,X
   13,J,G
-  12,K,G
-   9,R
-  14
-  10,R
-  27,R,J
-   9,U,X
-   1,L,J
-  30,R,D
-   4,Z
+   1,R,J,G
+   2,R,G
+  11,R,J,G
+   5,R,G
+   1,R,J,G
+   2,R,G
+   5,R,J,G
+  44,R,G
+   2,R,D,G
+   1,R,G
+   1,R,D,G
+  15,R,U,X
+  14,R,Z
    1,R,J
-  15,G
-  11,R,G
-  10,R,J,G
-   1,D
-   3
-  55,G
-  10,U,X
-   1,J
-  30,R,D
-   1,R
-   1,R,D
-   1,R
-   4,Z
+   2,R
+  13,G
+   5,R
+  11,R,J,G
+   1,J,G
    1,R,J
+   1,K,G
+   5,K
+   4,L,K
+   9,J
+   5,R,Z
+  13,G
+   8,R,G
+   1,R,J
+   1,R
+   2,R,J
+  15,D,X
+   4,R
+   4,J
+   1,R,K
+   9,R,J
+   7,R
+  33,R,G
+   1,R
+  11,R,J
   13,R,G
-   7,R,K,G
-  11,G
-   1
-  15,U,Z
-  20
-  10,R
-   1,R,J
+   1,R,J,G
+   1,R,K,G
+   1,L,K
+  13,K
+  12,R,J,G
+   8,R
+  11,R,X
+  11,R,J
+  13,U,X
+   5,J
+  25,D
   14,L,Z
    1,R,J
-  22,R
-   5,R,J
-   1,J
-  15
-  15,G
-   8,L,G
-  25,R,D,G
-   1,R,J,G
+   9,R,D,X
+  31,R,G
+  22,J,G
    1,R
-  14,R,D,X
+  13,R,G
+  12,R,J,G
+  11,R,K,G
+   1,R
+   2,G
+  16,L
+   7,R
+  15,R,X
+   7,R,D,C
+   1,R,J
+   8,R
+   2,R,J
+  10,R,U,X
+  14
+  15,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   5,L,D,X
+   1,R,J
+  21,R,G
+   7,R,J,G
+   9,R,G
+  13,R,J,G
+   1,J,G
+   6,K,G
+  25,D,G
+  22,R,D,G
+   5,R
+  11,Z
    1,R,J
    7,R
-   1,R,J
-   6,R
-   8,R,U,Z
+   7,R,J
+   6,R,U,Z
   40
 
 #lvl_d-05
@@ -1484,4 +1501,4 @@ Repeat 21
 EndRepeat
    1,R,J
 
-ChapterTime: 3:12.032(11296)
+ChapterTime: 3:10.825(11225)
