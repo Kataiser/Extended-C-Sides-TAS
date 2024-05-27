@@ -1,4 +1,4 @@
-RecordCount: 5096
+RecordCount: 5134
 
 console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
@@ -7,7 +7,7 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
   61
 
 #Spinner Cycle
-   2
+   0
 
 #lvl_a-00va
   10,R,Z
@@ -220,13 +220,13 @@ console load Cdog/ExtendedCSides/4GoldenRidgeC
    1,G
   20,R,J,G
   16,L,J
-  78,G
-   1
-   6,J
-   7,L,Z
-  18,R,J
+  73,G
+   3,L,J,G
+   2,L
+   4,Z
+  21,R,J
    1,R
-   4,R,J
+   1,R,J
    7,R,Z
    1,R,J
    6,R
@@ -984,4 +984,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 2:17.785(8105)
+ChapterTime: 2:17.581(8093)
