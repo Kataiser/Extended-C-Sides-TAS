@@ -1,4 +1,4 @@
-RecordCount: 7210
+RecordCount: 7732
 
 console load Cdog/ExtendedCSides/5MirrorTempleC
    1
@@ -61,34 +61,29 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
   16,R,U,X
    1,R,J,G
    4,L,J
-   6,R,J
-   3,R
-   4
-   6,R,D,X
+   1,R
+   1,R,J,G
+   4,J
+   7,R
+   7,R,D,X
    1,R,J
    3,R
-   3
+   2
   40
 
 #lvl_a-01
-   1,R
+   1
    1,R,J
   14,R,D,X
-   6,R,J
-   1,R
-  14,R,Z
-   1,J,G
-   4,R,J
-   1,L
-   1
-   1,G
-   4,J,G
-   1
-   1,J,G
-   5
-   2,L
+   2,R,J
+  11,R
+  15,R,U,Z
+   1,L,J,G
+   1,L,K,G
+   2,L,J,G
+   7,L
    9,U,X
-  14,R,J
+  15,R,J
   17,R,X
   15,U,Z
    1,R,J
@@ -117,15 +112,13 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
   15,R,Z
    3,R
    1,L
-   2,J,G
-   1,R,J
+   3,J,G
    7,R
    8,L,Z
    1,R,J
    6,R
    6,R,J
-   1,R,K,G
-   3,R,K
+   4,R,K,G
    2
    2,R
   12,U,X
@@ -238,7 +231,6 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    1,R
   40
 
-
 #lvl_a-04
    8,R
   14,R,X
@@ -309,12 +301,9 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
 
 #lvl_b-02
   26,D
-  26,R,X
-   5,R,J
-  15,R
-   4
-   3,R
-   3,R,D
+  24,R,X
+   6,R,J
+  25,R,D
   11,U,X
    3,J
    6,R,J
@@ -718,7 +707,7 @@ EndStunPause
 #  16,R,D
 #   4,R,J,G
 #  34,R,D
-#
+##
    1,L,J,G
    2,J
    3,R,J
@@ -918,33 +907,39 @@ EndStunPause
    7,R,D
    3,L
    5
-   8,R
-   5,R,D
-   1,D
-  18,R,X
-  14,R
-   1,R,J,G
-  31,R
-   7
-  15,L,X
+   6,R
+  18,R,D,X
+  15,R,C
+  33,R
+  10
+   4,R
+  14,L,X
+   1,J
   10,R,C
-  19,R,J
-  12,K,G
-  21
-  12,U,G
-  22,G
-   5,R,Z
+  13,R,J
+   6,R
+   1,J
+  15,L
+  14,L,D,X
+   1,L,J
+  12,L,D,X
    1,R,J
+   7,R
+   1,R,J
+   2,R
+  14,R,U,Z
+   5,R,J,G
    1,R,K
+   5,R
    1,R,J
-   1,R
-   4,R,J
   40
 
 #lvl_c-05vcb
-   3,R
-  30,R,D,J
-  13,U,X
+  14,R,D,X
+  20,R,J
+   1,J
+   1,R
+  15,U,X
   26,R,J
   24,R,X
   32,R,D,C
@@ -1012,7 +1007,6 @@ EndStunPause
   15,L,Z
   10,L
   25,L,U,X
-
   22,L,C
   12,U,X
   21,R,J
@@ -1179,7 +1173,6 @@ EndStunPause
    8,R,G
   40
 
-
 #lvl_d-03
    7,R,G
   12,J,G
@@ -1317,28 +1310,24 @@ EndStunPause
   16,L
    7,R
   15,R,X
-   7,R,D,C
+   7,L,D,C
    1,R,J
-   8,R
-   2,R,J
-  10,R,U,X
-  14
-  15,L,D,X
-   1,L,J
+   7,R
+   6,J
+  12
   14,L,D,X
    1,L,J
-   5,L,D,X
+  11,L,D,X
    1,R,J
   21,R,G
-   7,R,J,G
-   9,R,G
-  13,R,J,G
-   1,J,G
-   6,K,G
-  25,D,G
+   6,R,J,G
+   8,R,G
+  24,R,J,G
+  12,K,G
+  19,D,G
   22,R,D,G
    5,R
-  11,Z
+  10,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -1501,4 +1490,4 @@ Repeat 21
 EndRepeat
    1,R,J
 
-ChapterTime: 3:10.825(11225)
+ChapterTime: 3:10.519(11207)
