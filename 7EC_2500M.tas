@@ -7,14 +7,13 @@ console load Cdog/ExtendedCSides/7SummitC f-00
   36
 
 #lvl_f-00
-   5,L
-   5,L,J
-  29,U,C
-   6,L,X
+   8,L,J
+  23,U,C
+  10,U,X
    1,J
    1,L,K,G
-   6,R,K
-   4,R
+   7,K
+   1,R
   15,R,D,X
   15,R
   27,R,C
@@ -22,141 +21,160 @@ console load Cdog/ExtendedCSides/7SummitC f-00
   14,R,U,X
    1,R,J,G
   12,R
-  15,D,X
-   1
-  48,R,C
-   4,R,Z
-   3,R,J
-   0,R
+  16,D,X
+  39,R,C
+  14,R,Z
+   1,R,J
+   1,R
   40
 
 #lvl_f-01
-   7
-   5,R
-   1,R,J,G
-   4,R,K,G
-  15,U,X
-   0,R,J
-  37,J
-Repeat,15
+  15,R
+#make this work?
+#
+#  12,U,Z
+#   1,R,J
+#   3,R
+#  17,R,Z
+#  20,D
+#  15,R,X
+#  15,R,U,C
+#  21,R
+#
+  10,U,Z
+  10,R,J
+   3,J
+   1,R,J
+  32,J
+   6,R
+  16
+   4,L
+  13
+  32,R,X
+  13,U,C
    1,L
-   1,R
-EndRepeat
-  19
-  28,R,X
-  12,U,C
    1,J
-   1,L,K,G
-   4,R,K
-  13,R
-  15,D,X
-   6
-  15,L,X
-  14,L,C
-  18
-  33,U,X
-  35,L
-   8,L,X
-   1,J
-   1,L,K,G
-  24,R,K
+   9,K,G
+   2
+  16,R
+   1
+  12,L,D
+   1,D
+   3,L,D
+  29,L,X
+  28,R,C
   15,U,X
-  41,D
-  10
+   4,R
+  26,R,U,C
+  15,R,U,Z
+  11
+   5,L
+  30,D
+   4
   22,R,X
   15,D,C
-   5,J
-   5
-   1,R
+  11,R,J
+
   15,U,X
-  22,R
-  15,Z
-  32,D
-  39,U,X
+  10
+   6,R
+   1
+   8,R
+   4,R,D
+   2,D
+   1,R
+  15,R,U,Z
+   7
+  10,R,J,G
+   1
+   1,J,G
+   6,R
+   1,L
+   2,L,J
+   8,U,X
   40
 
 #lvl_f-02
-  18
-   5,R,Z
-   1,R,J
+  11,L,J
+  12,U,X
+   3,R,J
+  10,R,Z
+   3,R,J
+   3,R
+  16,R,Z
+  17,R,X
+  15,R,U,Z
+   8
+  12,R
+   1,R,J,G
   14,R
-  15,Z
-   1,R
-  11
-Repeat,20
-   1,G
-   1
-EndRepeat
-  12,J
-  54,R
-   4,R,J
-  19,R
-  26,R,X
+  10,R,J
+  33,R
+  25,R,X
   15,U,C
-  11
-  18,R,D
-  15,Z
-  30,L,D
-  21,U,X
-  15,R,U,C
-  31,R,D
-  15,R,Z
    8,R
-   5
+  27,D
+   1
+   2,R
+  17,R,X
+  19,D
+  25,U,X
+  15,R,C
+  17,R,D
+  15,R,Z
+  13
   55,R,X
-  32,R,J
-  15,R,X
-  13,R
-  15,R,X
-   7,R
-   6,R,Z
+  35,R,J
+  20,R,X
+  27,R,C
+   7,Z
    1,R,J
-   7,R
-   1,R,J
-   8,R,D,X
+   6,R
+   6,R,J
   40
 
 #lvl_f-03
-   7,R,J
-   2,R
-   5,R,J,G
-  13,U,X
-
-   1,J
-   1,L,K,G
-   2,L,K
-   2,L
-  15,R,D,X
-   7,R
-  12,U,X
-  28,R,J
-   3,R,K,G
-   1
-   2,R
-   1,R,J,G
-  10,R,K,G
-   5,R
-   2,R,K
-  16,R,D
-  29,L,D
-  15,U,X
-  10,L,Z
-   1,J,G
-   1,K,G
-   1,L,J,G
-   1,R,J
-   7,R
-  12,U,Z
-  15,R,C
-  15,R,U,Z
+   3,R,J
   11,R
-  15,R,D,X
-   6,R,D
-   2,L,D
-  12,R,D
-   4,D,Z
-   1,R,J
+  13,U,X
+   1,J,G
+   1,L,K,G
+   3
+  17,R,D,X
    6,R
+  13,U,X
+  20,R,J
+   1,J
+   3,R,J
+   1,J
+   4,R,K,G
+   1,R,J,G
+   9,R,K,G
+  24,R
+  13,L,D
+   1,D
+
+  15,L,D
+  15,U,X
+   6,D,C
+   1,J
+  12,K,G
+   2,R,K
+  10,U,Z
+  15,R,C
+  26,R,U,Z
+  15,R,D,C
+   1,R,D
+   1,R
+   4,R,D
+   2,L,D
+   7,R,D
+   2,R
+   2,R,D
+   2,R
+   4,Z
+   1,R,J
+   5,R
   40
 
 #lvl_f-04
@@ -165,13 +183,11 @@ EndRepeat
    3,R
   13,R,Z
    1,R,J
-   1
    5,R
   14,R,X
    1,R,J,G
   13,R
-  41
-   5
+  46
   15,U,X
    5,R,Z
    1,L,J
@@ -181,102 +197,97 @@ EndRepeat
    6,L,J
   13,L
   15,L,Z
-   5,L
-   1,J,G
-   1,R,J
-  12,L,J
-  13,L,U,X
+   4,L
+   1
+   1,J
+  10,L,J
+  15,L,U,X
   41
-  10,R,U,X
-   1,R,J,G
-   4,R
+   9,R,U,X
+   2,R,J,G
+   1,J
+   1,R,J
+   2,R
    4,R,Z
    1,R,J
-   6,R
-  21,R,X
-   2,R,J
    5,R
-   3,R,K
-   1,R
-  14,R,U,Z
+  21,R,X
+   6,R,J
+   7,R
+  13,R,U,Z
    1,R,J,G
-   1
-   1,R,J,G
-   1,L
-   1
-   1,L
-   1
-   3,R
-  11,R,J
+   7,R
+   8,R,J
+   2,J
   15,U,X
   15,U,C
   41
-   5,R
+   9,L
   15,U,X
-   9,L,U,Z
-   1,R
-   5,J,G
-   5,L,J
-   3,K
+  14,L,U,C
+   3,J
   23,L,X
   15,U,C
    9
   14,L
   15,L,Z
-  11,R
-   1,R,J,G
-   7
-   1,L,J
-  12,L,K
-   5,R,K
-   2,K
-   1,J
-   6,R,J
-   5,R
-   8,R,K
-   9,J
-  41
-  15,U,X
-  13,R,C
-  17,R,J
-  15,R,X
-  15,R,U,Z
-  24,R
-  12,R,J,G
+  12,R,G
+   2
+   1,L
+   2,J
+  12,L,J
+   4,J
+   1,K
+   7,R,K
    7,R
-Repeat,7
-   1,D
-   1
-EndRepeat
+   2,R,J
+   3,R
+   9,L,K
+  39
+  15,U,X
+   3,L
+   6,L,Z
+   1,R,J
+   7,R
+  21,R,J
+  37,R,U,Z
+   2
+   2,R,J,G
+   3,L,J
+   6,R,J
+   1,R,K,G
+  11,R
+   4
+   1,R
+   5
   15,D,X
   19,J
   15,U,X
   15,U,C
   41
-   4,L
+   3,L
    5,L,Z
   16,L,J
-  27,L,X
-  15,U,C
-  14,R,X
-  29,R,C
+  27,L,C
   15,U,X
-  12,R,C
-  25,L,X
+  14,R,Z
+  18,R,X
+  19,R,U,V
+  11,R,X
+  25,L,C
+  15,U,X
+   5,L
+  20,L,C
+  13,L,J
+  16,L,U,Z
   15,U,C
-   5,L
-  15,L,X
-   5,L
-  15,L,J
-  15,L,U,Z
-  14,U,C
   41
   10,R,X
    5,R,J
   15,R,U,X
    8,U,C
  366
-MidwayFileTime: 0:53.805(3165)
+MidwayFileTime: 0:51.306(3018)
 
 #lvl_g-00
   74
