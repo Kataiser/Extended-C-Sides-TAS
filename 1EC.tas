@@ -1,4 +1,4 @@
-RecordCount: 5560
+RecordCount: 6601
 
 console load Cdog/ExtendedCSides/1ForsakenCityC
    1
@@ -41,22 +41,20 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
 
 #lvl_a-01
    2,R
-   1
-   8,R
+   3
+   7,R
   14,U,X
-  12,R,J
-   9,R
-   1,R,J
-   1,R
    2,R,J
-  12,R,D
+   5,R
+   8,R,J,G
+  15,R
+   1
    1,R,J
-  19,R,D
-   9,D
-   1,L,D
-   2,L
-   1,L,D
+  18,R,D
+  10,D
+   2,L,D
    3,L
+   2,L,D
    1,G
    1,R,J
    5,R
@@ -82,18 +80,16 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    5,R
   12,R,J
    2,K,G
-   4,L,K
-  11,J
+   5,L,K
+   9,J
    1,R,J
-   4,K,G
-   1,R,K
+   1,J
+   1,R,J
+  10,K,G
    1,L,K
    1,R,K
-   1,R,J,G
-   1,L,J
-   7,R,J
-   6,R,K,G
-   6,L,K
+  13,R,J,G
+   2,K
   40
 
 #lvl_a-02
@@ -123,14 +119,17 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    4,Z
    1,R,J
    6,R
-   4,R,J
+   1,R,J
    8,J
+   4,R,J
   15,U,X
-   5,R
-   1,L,J,G
-   7,R,J
-   1,J
+   3,R
+   1,L
+   1,J,G
+   1,R,J
+   6,J
    7
+
    1,L,G
   10,J,G
    1,R,J
@@ -142,8 +141,7 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    5,L
    1,J
    1,L,K,G
-   1,R,K
-   6,R
+   7,R,K
    1,J,G
    5,R
    5
@@ -203,7 +201,7 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
   15,U,X
   16,R,J
   15,R,D,X
-   9,D
+   9,R,D
    1,L,D
    1,R,D
    9,R
@@ -257,23 +255,25 @@ console load Cdog/ExtendedCSides/1ForsakenCityC
    9,R,X
    6,R,J,G
    8,R
-   3,R,J
-  10,R,K,G
-  14,R,D,X
-   2,R,J,G
-   2,R
-   9
+   2,R,J
    1,R
-  14,D
+   2,R,K,G
+   5,R
+   1,J
+   1,R,J
+  12,R
+   1,R,J,G
+  14,R
+  10,L,D
   15,L,D,X
-   5,L
+   4,L
+   1,L,D
    2
-   1,L
-   2
-   1,L
-  15,R,D
-   2,R
-   8,R,D
+   1,L,D
+   1
+   2,D
+   1,R
+  20,R,D
   26,L,D
   27,R,D
   13,L,D,X
@@ -474,9 +474,9 @@ endrepeat
    6,R
    7,L
    4,J,G
-  13,R,J
+  12,R,J
    8,R,K,G
-   5,K
+   6,K
    5,X
    3,R,J,G
    1,R
@@ -484,17 +484,25 @@ endrepeat
    3,R
    2,R,J
   21,R,D
-  11,R,J,G
-  19,R,D,X
-   2,R,J,G
-  28,R
-   8,R,X
-   8,R,J,G
-  11,R
-  13,R,D,X
-   8,R
-   2
-   8,R,X
+   1,R,J,G
+   5,R
+   1,R,J
+   3,R
+   2,R,J
+  14,R
+   7,R,X
+   1,R,J,G
+   1,J
+   5,R,J,G
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   3,R
+   1,R,J,G
+  13,R
+  34,R,X
+   7,R,C
    1,R,J,G
   33,R
    4,Z
@@ -565,17 +573,11 @@ endrepeat
    5,D,G
    1,G
    2,D,G
-  15,R,D
-   3,R
-   1,R,D
-   2,R
-  10,R,X
-   6,R,J
-  14,U,Z
+  21,R,D
+  17,R,J
+  14,U,X
    7,R,J
    3,L,J
-   4,J
-   2,R,J
    1,R,K,G
    7,R
    6,R,Z
@@ -603,13 +605,21 @@ endrepeat
    5,R
    1,R,J
    9,R
-   5,R,J
-  24,R
+   1,J
+   4,R,J
+   1
+  23,R
    1,G
-   9,R
-  26,L
-  26,R
-  13,U,X
+   8,R
+   8,L
+   8,L,D
+   1,L,G
+   1,L,J
+   3,L
+   5,G
+   1,J
+  29,R
+   7,U,X
   15,R,J
   11,R
   11,R,X
@@ -765,9 +775,7 @@ endrepeat
    2,R
   14,R,U,X
    1,R,J,G
-   5,R
-   1,R
-  13,R
+  19,R
    2,R,D
    1,R,J,G
    2
@@ -828,4 +836,4 @@ endrepeat
   15,R,U,X
  135
 
-ChapterTime: 1:21.226(4778)
+ChapterTime: 1:20.886(4758)
