@@ -1,4 +1,4 @@
-RecordCount: 10135
+RecordCount: 10494
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -131,44 +131,46 @@ console load Cdog/ExtendedCSides/7SummitC
 
 #lvl_a-03
   14,R,D,X
-  11,R,J
-  13,U,X
-  14,R,J,G
+   9,R,J
    1,J
-   3,R,J
-   9,R
+  14,U,Z
+  10,R,J
+  14,R,U,X
    1,R,J,G
-   5,R,K,G
-  32,R
-  11,R,D
-  14,L,D,X
-  23,R
-   9,R,U,Z
-   1,L,J,G
-  15,R,J
+  26,R,D
+   7,L,D
+  18,L
+  28,R
+   2
+   8,U,X
+  10,R,J
    2,R
    6,R,X
-   1,J,G
-   2,R,J
-  15,R
-  17,L,D
-  12,L
+   1,R,J,G
+   2,J
+   6,R
+  35,L,D
   18,R
-  17,R,U,Z
+  15,R,U,Z
+   2
    9,U,X
   38,R,J
    1,R,K,G
    1,R,J,G
   23,R
   11,R,D
-  16,L,D
-  32,R
+   4,L,D
+  11,L
+   1
+  29,R
    7,U,X
-  17,R,J
-   8,R,X
+  13,R,J
+   2,R
+   9,R,X
    1,R,J,G
-   2,J,G
-  31,R,D
+   2,J
+   1,R
+  30,R,D
    6,R,Z
    1,R,J
    7,R
@@ -197,35 +199,18 @@ console load Cdog/ExtendedCSides/7SummitC
    3,L
    5
   15,L,Z
-## 144 DCB???
-#   1
-#   1,L
-##
    2
    1,L,J,G
   19,L,K,G
-#There are a bunch of things here
-#that just barely don't work
+#just barely doesn't work
 ##
 #  41
 #   4,R
 #  10,L,Z
 #   1,R,J
-#  12,J
-#   1,J
+#  13,J
 #  15,R,Z
 #  15,R,U,X
-##
-## Would need to manip by 0.05
-#  41
-#   1,R
-#   1
-#   1,R
-#  15,R,U,X
-#   5
-#   1,R
-#  15,R,Z
-# 100,R
 ##
   43
   14,U,X
@@ -404,55 +389,26 @@ console load Cdog/ExtendedCSides/7SummitC
    1
    1,R
    1,R,J,G
-#might be possible,
-#would save a few frames
-#   2,R,K,G
-#   5,R
-#   1,R,J
-#   3
-#   1,J
-#  11
-#  15,U,Z
-#   2,L
-#   3,R
-#   8,J
-#   1,R,J
-#   4,J
-#   4,R
-#   1,R,K,G
-#   7,R,J,G
-#   5,R
-#   1,R,J
-#   2,R
-#   2
-#   1,R
-#  15,U,Z
-#   2,R
-#   1
-#   1,R
-#   1
-# 100,J
-   5,R,K,G
-   6,R
-   4,R,K
-   3,R
-  15,U,X
-  13,R,U,C
-   1,R,J,G
-   7,R
+   2,R,K,G
+   5,R
    1,R,J
-   6,R
-  17,R,J
-  11,K,G
-   1,L,K
-   8,R,J,G
-   1,L,J
+   3
    1,J
-   1,L,J
+  11
+  15,U,Z
+   2,L
+   3,R
+  12,J
+   5,R,J
+  13,K,G
+  15,R,U,X
+   2,L
+   4,L,J,G
+   1,R,J
    1,J
-   1,L,J
+   1,R,J
    1,J
-   1,L,J
+   1,R,J
   14,K
   41
 #i like this strat
@@ -2687,4 +2643,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:12.718(25454)
+ChapterTime: 7:12.259(25427)
