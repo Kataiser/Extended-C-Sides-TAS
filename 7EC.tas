@@ -1,4 +1,4 @@
-RecordCount: 10654
+RecordCount: 11092
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -810,7 +810,7 @@ console load Cdog/ExtendedCSides/7SummitC
   12,R,D
   30,R,J
   21,R,D
-  16,R,Z
+  16,R,X
   20,R,V
   39,R,D
   16,R,Z
@@ -931,12 +931,13 @@ console load Cdog/ExtendedCSides/7SummitC
 
 #lvl_d-04
    6,R,J
-   6,R
-   8
+   1,L,K,G
+   5,R,K
+  10,R
   15,R,Z
-  13
-  15,R,V
-  57,U,X
+  13,R
+  14,R,Z
+  53
   15,L,C
   15,L,U,X
   10,U,Z
@@ -1418,8 +1419,8 @@ console load Cdog/ExtendedCSides/7SummitC
 #  12,U,Z
 #   1,R,J
 #   3,R
-#  17,R,Z
-#  20,D
+#  15,R,Z
+#  22,D
 #  15,R,X
 #  15,R,U,C
 #  21,R
@@ -1457,7 +1458,6 @@ console load Cdog/ExtendedCSides/7SummitC
   22,R,X
   15,D,C
   11,R,J
-
   15,U,X
   10
    6,R
@@ -1533,11 +1533,11 @@ console load Cdog/ExtendedCSides/7SummitC
    4,R,K,G
    1,R,J,G
    9,R,K,G
-  24,R
+  20,R
+   4,R,D
   13,L,D
    1,D
-
-  15,L,D
+  13,L,D
   15,U,X
    6,D,C
    1,J
@@ -1578,13 +1578,15 @@ console load Cdog/ExtendedCSides/7SummitC
    2,L,J
    1,J
    6,L,J
-  13,L
+   6,L
+   2,L,J
+   2,L
+   1,L,J
+   3,L
   15,L,Z
    4,L
-   1
-   1,J
-  10,L,J
-  15,L,U,X
+  11,J
+  14,L,U,X
   41
    9,R,U,X
    2,R,J,G
@@ -1686,18 +1688,21 @@ console load Cdog/ExtendedCSides/7SummitC
    1,L,J
    2,J
   11,U,X
-   8,R,J
+   2,R,J
+   3,J
+   2,R,J
+   1,J
   18,R,U,X
   15,R,U,C
   12,U,X
   19,L,J
-  16,L,X
-  14,U,C
-  10,R,J
-   8,J
-  17,R,U,X
-  11,R,C
-   4,R,J
+  15,L,X
+  13,U,C
+  20,R,J
+  15,R,U,X
+  10,R,C
+   2,R,J
+   2,R
 
 #CP-24
   14,R,Z
@@ -1730,13 +1735,19 @@ console load Cdog/ExtendedCSides/7SummitC
    1,R,J
    2,R
   11,R,U,X
-   8,R,J,G
+  25,R,J,G
   29,R
-  10,D,X
-  34,R
-  30,R,U,X
+   2
+   2,D
+   1,R,D
+   1,L,J
+  16,R,J
+  15,R,U,X
+   1,R
+   2
+   1,R
   12,U,C
-   5,J
+   4,J
   11,R
 
 #CP-22
@@ -2647,4 +2658,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:11.987(25411)
+ChapterTime: 7:11.647(25391)
