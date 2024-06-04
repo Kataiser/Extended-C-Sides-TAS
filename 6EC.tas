@@ -1,4 +1,4 @@
-RecordCount: 3432
+RecordCount: 4010
 
 console load Cdog/ExtendedCSides/6ReflectionC
    1
@@ -72,13 +72,13 @@ AnalogMode,Precise
   12,R,K,G
    7,J,G
    7
-   3,L
-   3,L,J
-  10,R,D,X
-  11,L,J
-   1,K,G
-   3,R,K
-  15,U,X
+   6,L
+   1,L,J
+   1,L
+  10,R,X
+   7,L,J
+   6,J
+  14,U,X
   40
 
 #lvl_a-02
@@ -110,6 +110,24 @@ AnalogMode,Precise
    1,K,G
    1,R,K
    3,R
+## need resync -4f
+#   9,L,X
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   4,J
+#   2,R,J
+#  40
+#   2,J
+#   1,R,J
+#  15,R,D,X
+#   9,R,J
+#   8,R
+#   1,R,J
+#  14,R
+#  15,R,Z
+# 100,D
+##
    7,R,X
    1,R,J
    3,R
@@ -252,232 +270,125 @@ AnalogMode,Ignore
   40
 
 #lvl_a-06
-### crying pt. 2
-#   1,R,J
-#   5,R
-#  17,R,K,G
-#   8,L,U,X
-#   1,L,J,G
-#  12,L,K,G
-#   2,J,G
-#   2,R
-#   6,L,U,X
-#  19,R
-#  12,L,U,X
-#   1,L,J,G
-#   6,L,K,G
-#  19,R
-#  10,R,X
-#  28
-#   1,R,D
-#   6,F,180
-#   7,F,135
-#   8,R,Z
-#   3,L,J,G
-#   1
-#   2,L
-#   1,K,G
-#   1,J,G
-#   2
-#Set Invincible True
-#   1
-#Set Invincible False
-#   1,R
-#  10,L
-#   1,J,G
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   1,J
-#   1,K
-#   2,R
-#   1,R,J
-#   9,R,X
-# 100,R,J,G
-#  12,R,K,G
-###
-### crying pt. 3
-#   1,R,J
-#   5,R
-#  17,R,K,G
-#   8,L,U,X
-#   1,L,J,G
-#  12,L,K,G
-#   2,J,G
-#   2,R
-#   6,L,U,X
-#  19,R
-#  12,L,U,X
-#   1,L,J,G
-#   6,L,K,G
-#  19,R
-#  10,R,X
-#  28
-#   1,R,D
-#   6,F,180
-#   7,F,135
-#   8,R,Z
-#   5,L,J,G
-#   1,K,G
-#   1,J,G
-#   6
-#   1,K,G
-#   1,J,G
-#   1
-#   1,R
-#   6,L
-#   4,R
-#   1,R,J
-#   1
-#   4,R,Z
-#  40,R,J
-#  12,R,K,G
-###
-
-   1,R,J
-   5,R
-  17,R,K,G
-   8,L,U,X
-   1,L,J,G
-  12,L,K,G
-   2,J,G
    2,R
-   6,L,U,X
-  19,R
-  12,L,U,X
-   1,L,J,G
-   6,L,K,G
-  19,R
-  11,R,X
-  27
-   1,R,U
-  10,F,0
-   8,F,225
-  45,F,180
-  19,F,135
-   6,F,125
-   9,F,90
-   9,F,45
-   7,F,0
-   6,L,U,X
-  12,L,K,G
-   4,L,J,G
-  19,R
-  15,U,X
+   4,R,J
+  14,R,K,G
+  15,U,Z
+   1,R,J
+  17,R
+  10,L,U,X
+   1,L
   12,L,J,G
-   6,L,K,G
-   1,R
-  11,L,D,X
-   1,L,J,G
-   4,L,K,G
-   3,R
+   2,L,K,G
+   1
+  36,R
   15,L,X
-  30,R
-  15,R,X
-  24,L
-   5,R,D,X
-  10,R,J
-  22,R
-  12,R,J,G
-   7,K,G
-   7,R
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  12,R,D,X
+   1,G
+   1
+   2,G
+   1,J
+   1
+  15,R,Z
+  16,L
+   4,R
+   3,L,J,G
+   7
+   3,G
+   1,J,G
+   3,R
+   2,R,J
+   6,R,U,X
+   6,R,J,G
+   5,J
+  11,R,J
+   3,R,K,G
+   9,R
+   1,R,K
   40
 
 #lvl_a-07
-   1,R,J
-   7,R
-   1,N
    3,R
-  14,L,D,X
-   1,R,J
-  10,R
-  15,R,U,X
-  17
-  32,L
-### please fix down dash
-  15,D,X
-   2,D
-   5,R,D
-  22,R
-  15,R,U,X
-  36,D
-  39,R,D
-  15,U,X
-   2,R
-  32,L,J
-  20,L
-  15,L,Z
-  50,L
-  15,L,U,X
-  14,L
-  26,R
-  15,R,U,X
-  16,R
-   5
-  33,R
-  10,L,J
-  15,L,U,X
-  42,L
-  21,L,U,X
-  23,R
-  14,R,U,X
-   1,J,G
+   1,R,D
+   5,R,J
+   4,R
    1
+   1,R
+   6,R,U,X
+   6
+  36,R
+  14,U,X
+  30,L,J
+  23,L
+  15,L,Z
+   5,L
+   5
+   4,L
+   7
+  20,L
+  15,L,U,X
+  10,L
+   3,R
+   6
+  17,R
+  15,R,U,X
+  20,R
+  22
+  15,U,X
+  21
+   1,L
+   6
+  14,R
+   2
+   3,R
+   6,J,G
+   6,R,J
+  14,R,U,X
   10,J,G
+   2
+   1,R,K,G
+   2,L,K
+   2,R,K
    7,R
-   7,L,Z
+   4,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   7,R,D,X
   40
 
 #lvl_b-00
-  10,R,J
+   8,R,J
+   5,R
+   1,R,J
    8,R
-   7,R,U,X
-   8,R,J,G
-   7,R
-   9,L
-   6,R,Z
+   8,R,J
+   4,R,K,G
+   2
+  14,L,D,X
    1,R,J
-   7,L
-   1,R,J
-   9,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   9,R,U,X
+   5,R,D,X
    7,R,J,G
-  21,R
-   4,R,Z
+   5,R
    1,R,J
-   7,R
+  10,R
+   9,R,J
+   1,J
+  14,R,D,X
+   8,R,J,G
+   5,R
+   1,R,J
+   5,R
+  12,R,J
+  15,R,D,X
   12,R,J
   15,R,D,X
    1,R,J
-   9,R
-   2,R,J,G
+   4,R
+   1,R,J,G
   14,R,D,X
    1,R,J
-   6,R
+   2,R
   15,D,X
+   1,D
    8,R,D
   40
 
@@ -1142,38 +1053,34 @@ AnalogMode,Ignore
   11,L,X
   26
    7,L
-   6,G
-   2,D,G
-   3,G
-   1,D,G
-  56,G
-### multiboost earlier to have speed
-   1,U,G
+   2,L,D
    1
-   1,J
+   1,L,D
+  13,D,G
+   2,G
+   1,L,J,G
    1,K,G
-  15,R,Z
-  16
-  23,L
-  45,R,D
-  15,R,Z
-   4,R
-   5,R,Z
-   1,R,J
-   3,R
+   1,L,J,G
+  16,R,J
+  15,R,D,X
+   1
+   6,R
+  13,J,G
+  48,L
+  18,R,D
+   2,L
+   1,J,G
+  15,R,D,X
+  11,R,D
   40
 
 #lvl_d-00
-   4,R
-   1,R,J
-   1,R
+   8,R,J
   10,R,D,X
-   5,R,J
-   5,R,D,X
-   2,R,K,G
-  12,R
-  13,R,J
-   9,R,X
+   1,R,J,G
+  13,R
+   1,R,J
+  13,R,U,X
   32,L
   21
   10,D
@@ -1540,6 +1447,6 @@ AnalogMode,Ignore
    2,R,J
   11,R,K,G
   14,R,U,X
- 137
+ 135
 
-ChapterTime: 4:08.319(14607)
+ChapterTime: 3:59.547(14091)
