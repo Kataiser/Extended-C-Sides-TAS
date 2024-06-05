@@ -1,4 +1,4 @@
-RecordCount: 5509
+RecordCount: 5699
 
 console load Cdog/ExtendedCSides/4GoldenRidgeC
    1
@@ -489,34 +489,23 @@ EndStunPause
    2,R
    2,R,J
    1,R
-  12,R,J
-   5,R
-   4,R,J
+  21,R,J
   15,R,D,X
-   7,D
-   1,R,D
-   2,D
-  22,R,D
-   5,R
-  10,R,J,G
-  14,R
-   3,R,J,G
-  11,R
-   1,J,G
-   2,R,J
-   1,R
-   1,L
-  13,R,X
-   1,R,J,G
-   1,J
-   2,R,J
+  25,R,D
+   1,D
+   5
+  12,R,X
+   2,R,J,G
+   9,R
+   4,R,J,G
    5,R
    1,R,J
-   6,R
-   5
-  16,R,J
+  10,R
+   1,L
+   6,J,G
+   8,R,J
   12,K,G
-   9,J
+  10,J
    7,R
    4,R,Z
    1,R,J
@@ -527,30 +516,32 @@ EndStunPause
 #lvl_b-04
    8,R,J
   18,R,D,X
-  27,R,J
+  26,R,J
+   1,R,J
+  15,R,D,X
+   1
+   1,R,J
+  12,R,D,X
+   8,R,J
+  18,R,K,G
   15,R,D,X
    1,R
-   2,R,D,J
+   1,R,J
+   1,J
+   1,R,J
    5,R
-   2,R,K
-   5,R
-  20,R,J,G
-  15,R,D,X
    3,R,J
-   8,R
-   1,K
-   1,R,J,G
-   5,R
-   3,R,K
-   7,R
-   1,J,G
-   2,R,J
+   1,R,K,G
+  10,R
+   4
+   3,J,G
+   4,R,J
+   1,J
+   1,L,J
    5,J
-   5,L,J
-   1,K
-   2,J,G
-   8,R,J
-  11,R
+  10,R,K
+   8,R
+   3,R,J
   15,R,Z
   21,R,D
    5,R
@@ -622,14 +613,14 @@ EndStunPause
    2,R,J
    8,R
   16,R,X
-  18,R,J
-   6,K,G
-   2,L,K
-  14,R,D,X
-  19,R,J
+  16,R,J
+   4,L,K
+  14,R,Z
+  14,R,J
    1,R
-   3,R,J
-  10,R
+   4,R,J
+  11,R,D
+   1,R,J
   15,R,U,X
    9,R
    4,R,Z
@@ -754,19 +745,17 @@ EndStunPause
   10,R,D,X
   21,R,J
   19,R,D,X
-   3,R
+   2,R
   15,R,D,X
-   5,R,D
-  42,R,J
+   4,R,D
+  41,R,J
   18,R,U,X
-  13,R,U,Z
-   1,L,U,Z
+  12,R,U,Z
+   1,L
    1,J
    1,K,G
-   7,K
-   5
-   1,K
-   2
+   8,K
+   7
   14,R,D,X
    1,R,J
   15,R,D,X
@@ -984,4 +973,4 @@ EndStunPause
   14,R,U,X
  135
 
-ChapterTime: 2:17.292(8076)
+ChapterTime: 2:16.374(8022)
