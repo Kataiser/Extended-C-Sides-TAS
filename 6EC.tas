@@ -1,4 +1,4 @@
-RecordCount: 4010
+RecordCount: 4709
 
 console load Cdog/ExtendedCSides/6ReflectionC
    1
@@ -1081,16 +1081,27 @@ AnalogMode,Ignore
   13,R
    1,R,J
   13,R,U,X
-  32,L
-  21
-  10,D
-   8,L
-   6
-  10,R,X
-   8,R,J
-   7,R
-  15,R,D,X
+  70,R
+  14,L,X
+   1,R,J
+   6,R,U,X
+   5,J,G
+   1
+  16,R
   16
+## +6f but better feather position
+#  15,L
+#  10
+#   6,L
+#   1
+#  14,L,D,X
+#   9,R,J
+#  16,R,D
+#   8,D
+#  10,R,D
+#   8,R,X
+# 100,R
+##
   16,L
    5,R
   15,R,X
@@ -1115,82 +1126,81 @@ AnalogMode,Ignore
    1
    1,J
    1,K,G
-   1,J,G
-   8,R,U,X
-   1,J,G
+   3,J,G
+   1,R,J
+   1,K,G
+   5,R
+   2,J
    1,R
    1,L
-  21,R
-  60
-   5,R,Z
    1,L,J
-   7,L
-  40,L,J
-###
+  18,L
+  25,D,G
+   5,G
+   1,J,G
+   7,L,J
+   1,R,J
+  27,L,J
+## more speed but +3f
+#  12,G
+#  19
+#   7,D
+#   3
 #   3,G
 #   1
-#   1,J
-#   1,K,G
-#   1,J,G
-#   2,K,G
-#   5,R,X
-#   6,R,J,G
-#   6,R
-#  40
-#   6,R
-#Invoke Player.MoveV 4
-#   5,R,D
-#   9,R,J
-#   7,L
-#   7,R,Z
-#   1,R,J,G
-#  56,R
-#3:09.261(11133)
-###
-   3,G
+#   1,K
+#   1,L,J,G
+#   1,L,K,G
+#   1,L,J,G
+#   3,K,G
+#   6,R,X
+#   3,R,J,G
+# 106,R
+##
+  17,G
+  18,D
+   1,R
+   1,L
+   3
+   1,G
    1
-   1,J
-   1,K,G
-   1,J,G
    1,L,K,G
-   3,R,K
-   3,R,J,G
-   5,R
-   2,R,J
-  40
-   9,R
-   1,R,D
-  12,R,J
-  15,R,X
-   8,R,J
-  49
-   1,R,D
-   6,F,101
-   1,F,97.667
-   1,F,91
- 116,F,89.033
-  15,F,75
-   7,F,90
-  14,R,X
-  16
-  22,L
-   5,R
-  15,R,X
-  10,R
-   1,R,J
-  28,R
-  14,R,Z
-   1,R,J
+   1,L,J,G
+   1,K,G
+   5,J,G
    9,R,D,X
   40
 
+#lvl_d-01
+   6,R
+   5,R,D,J
+  54,R
+  16
+  30,L
+   9,R,U,X
+   2,R,J,G
+   1
+   1,R
+   4
+   2,L
+   2
+   7,R,D
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   1,R
+   4,R,J
+   5,R
+  40
+
 #lvl_d-02
-   5,R,D,X
-  16,L
-  27
-  10,R,Z
-   7,R,J
-  15,U,X
+   1,R
+   1,R,J
+   1,R
+  15,R,D,X
+   1,R
+  16,R,J
+  12,U,X
   16
   24,L
    1,R,J
@@ -1317,6 +1327,8 @@ AnalogMode,Ignore
    6,R
    3,R,J
   40
+
+#lvl_d-05
    9,R,J
   15,R,D,X
    1,R,J
@@ -1347,15 +1359,19 @@ AnalogMode,Ignore
    1,R,J
   11,R,D,X
    1,J
-   3,L
-  30
-   5,L,Z
+   6,L,J
+   9,L
+  13,L,Z
+   3,R,J
+   8,R,D,X
+   1,J,G
+   5,R
    1,R,J
-   7,R
-  23,R,J
+   2,R
+  20,R,J
   15,R,D,X
-  25,R
-  24,R,U,X
+  20,R
+  15,R,U,X
   42
   40,R,D,X
    9,R,J
@@ -1449,4 +1465,4 @@ AnalogMode,Ignore
   14,R,U,X
  135
 
-ChapterTime: 3:59.547(14091)
+ChapterTime: 3:55.263(13839)
