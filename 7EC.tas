@@ -1,4 +1,4 @@
-RecordCount: 12150
+RecordCount: 12411
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -1803,15 +1803,18 @@ console load Cdog/ExtendedCSides/7SummitC
    1,R,J
    1,R
   15,R,U,X
-  13,U,C
-  30,L,J
-   2,L
-   1,L,J
-  22,L,U,X
-  25,L,U,C
+   9,U,C
+  23,L,J
+  15,L,X
+   3,L
+  14,L,Z
+   1,R,J
+  15,U,X
+   1
+  14,L,U,C
    1,L,J,G
    4,R,J
-   8,L,J
+   6,L,J
    7,L
 
 #CP-21
@@ -1824,9 +1827,9 @@ console load Cdog/ExtendedCSides/7SummitC
    7,L
    9,L,J
    2,J
-   2
-   2,L
-   1
+   4
+   1,L
+   1,J
   15,U,X
   13,U,C
   33,R,J
@@ -1987,13 +1990,14 @@ console load Cdog/ExtendedCSides/7SummitC
   24,R,U,Z
    2,L
    5,R,J,G
-   9,R
 
 #CP-16
 #Horrible stun that is
-#~10f slower
-#I'm bad at stuns so
+#2f slower
 #may be optomizable
+#   8,R
+#   1
+#   1,R
 #  14,R,D,X
 #   1,R,J
 #  15,R,D,X
@@ -2010,12 +2014,18 @@ console load Cdog/ExtendedCSides/7SummitC
 #   1,D
 #   1,R,D
 #   2,D
-#   1,R,D
+#   3,R,D
 #stunpause
-#  31,R,D
+#  29,R,D
 #endstunpause
-#  12,R,D
+#  11,R,D
 #  14,R,Z
+#   1,R,J
+#  14,R,D,X
+#   8,R,J
+#  13,R,D,X
+#
+   9,R
   14,R,D,X
    1,R,J
   40,L,D
@@ -2047,16 +2057,18 @@ console load Cdog/ExtendedCSides/7SummitC
 #CP-15
    1,R,J
   14,R,D,X
-   5,R,J
-  11,R,D,X
-   4,L
-  15,D,X
-  11,L
-   7,L,J
    2,R,J
-   1,L,J
-  15,R,J
-  10,R
+   2,J
+   1,R,J
+  15,R,D,X
+  15,D,C
+  10,L
+   1
+   4,L,J
+   7,R,J
+  16,R
+   1,J
+   2,J
   15,U,X
   15,U,C
    6,L
@@ -2068,22 +2080,24 @@ console load Cdog/ExtendedCSides/7SummitC
   10,R
   15,U,X
   11,R
-   2,L
+   2
    1,R,J,G
   13,K,G
    5,J,G
    1
    1,K,G
-   9,R
+   7,R
 
 #CP-14
-   3,L
+   1,L
    9,L,J
-   8,L
+   7,L
+   1,L,J
   15,U,X
   15,U,C
   22,L,D
-   9,R,D
+   4,R,D
+   5,R
   15,U,X
   18,R,Z
   15,U,X
@@ -2093,24 +2107,24 @@ console load Cdog/ExtendedCSides/7SummitC
   15,L,Z
   15,D
    8,L,Z
-  27,R,D
-   1,L,D
+  10,L,D
+  20,R,D
+   2
   10,L
-  15,L,D,X
-   3,L
-  15,U,C
-   8,R,U,X
-  14,L
+  15,L,Z
+   1,L
+   6,U,Z
+  16
   15,L,U,X
-  38,L,U,C
+   1,L
+  35,L,U,C
 
 #CP-13
   11,L,J
   16,L,U,X
   15,L,C
    1,X
-   1,J
-  11,L,J
+  12,L,J
    1,K,G
    1
    2,R
@@ -2698,4 +2712,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:10.083(25299)
+ChapterTime: 7:09.641(25273)
