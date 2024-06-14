@@ -1,4 +1,4 @@
-RecordCount: 13184
+RecordCount: 13513
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -2225,14 +2225,14 @@ EndStunPause
    7,R
    4,R,J
    1,R,K,G
-  15,R,D,X
-   2,R
-  14,U,C
+  12,R,D,X
+   4,R,J
+  13,U,X
   11,R,J
   11,R
 #Gate skip
 #Swag but 34f slower
-#Definitly optomizable
+#Definitly optimizable
 #But still will be slower
 #  19,L,J
 #  21,U,X
@@ -2255,38 +2255,44 @@ EndStunPause
 #   1,R
 #  15,R,Z
 #  20,L,D
-  14,R,Z
-   2,R,J
-  15,L,Z
-  14,J
-   6,L,J
-  21,U,X
+
   15,R,Z
-   9,L
+   1,R
+   1,R,J
+  10,L,Z
+  13,L,J
+  14,U,X
+   7,R,J
    3,R
-  19,R,Z
-   4,R,J
+  15,R,Z
+  12
+   1,J
+   1
+  15,R,Z
+   1,R
+   5,R,D
+   1,R,J
+   3,R
   15,R,U,X
-  12,R,Z
-  24,L,D
+  15,R,Z
+  21,L,D
 
 #CP-7
    1,X
-   9,J
-   3,R,J
+   7,J
+   5,R,J
   10,L,Z
   12,R,J
    2,R
   15,R,Z
   18,R
-  24,R,Z
-   1,R
+  25,R,Z
    2,R,J
   16,R,Z
-   7,R
-  12,R,X
+   8,R
+  11,R,X
    1,R,J,G
-   3,J
+   1,J
   10,R,J
   12,R,D,X
    1,R,J
@@ -2294,20 +2300,25 @@ EndStunPause
    9,R,D,X
   15,R
   15,U,X
-  31,R,Z
-   4,R,D
+  29,R,Z
+   5,R,D
+   1,R
    1,R,J,G
-   9,R
-  11,R,Z
+   2,R
+   1
+   4,R
+  12,R,Z
    4,R,J
-  14,U,X
-  12,R,J
-  15,R
-  11,L
+  11,U,X
+  15,R,J
+  11,R
+   9,L
+   1,L,J
   15,R,Z
    3,R,J
    5,R
-   5,R,J
+   3,R,J
+   2,R
   28,R,U,Z
   15,U,X
    4,R
@@ -2694,4 +2705,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:08.995(25235)
+ChapterTime: 7:08.757(25221)
