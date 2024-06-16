@@ -1,4 +1,4 @@
-RecordCount: 13513
+RecordCount: 13680
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -2310,36 +2310,35 @@ EndStunPause
   12,R,Z
    4,R,J
   11,U,X
-  15,R,J
-  11,R
-   9,L
-   1,L,J
-  15,R,Z
+  14,R,J
+   9,R
+   6,R,J
+  15,R,D,X
    3,R,J
-   5,R
-   3,R,J
+   1,R
+  15,R,U,X
+  16,R,C
+   6,R,J,G
    2,R
-  28,R,U,Z
   15,U,X
-   4,R
-  24,R,Z
-   1,R,J,G
-  13,R
+  15,R,Z
+   5,R
 
 #CP-6
-   5,R,Z
+   9,R,D,X
    1,R,J
    7,R
-   3,R,D
-   1,J
+   2,R,D
+   1,D
+   1,R,J
   15,R,D,X
   18,R,C
   15,R,X
   18,U,C
-   8,R
+   1
   15,U,X
-   6,R
-   2,R,J,G
+   1
+   8,R,J,G
   15,R,Z
   20,L,D
   11,D
@@ -2350,8 +2349,10 @@ EndStunPause
   15,U,X
    4,L
    5
-  25,R,D
-   2
+  24,R,D
+   1,R
+   1,D
+   1
   19,R,Z
   18,R,V
 
@@ -2368,7 +2369,7 @@ EndStunPause
    5,R,J
   17,U,X
   10,L,J
-   1,R,J
+   1,J
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -2400,20 +2401,26 @@ EndStunPause
   15,L,D,X
   20,L,C
   27,L,X
-   6,L,D
+   6,L
   15,L,U,C
-  16,U,X
+  15,U,Z
    1,R,J,G
-   7
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
    4,L
   18,R,Z
    4,L,J
-   9,R,J
+   7,R,J
+   2,R
   15,U,X
    3,R
   18,L,C
   20,R,J
-  15,U,Z
+  15,U,X
   10,R
   15,L,U,X
    5,R
@@ -2446,7 +2453,7 @@ EndStunPause
    4,R,J
    6,R
   15,R,Z
-   1,L
+   1
    7,L,U,X
    9,R
   15,R,U,X
@@ -2705,4 +2712,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:08.757(25221)
+ChapterTime: 7:08.179(25187)
