@@ -1,4 +1,4 @@
-RecordCount: 14148
+RecordCount: 14151
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -1998,9 +1998,9 @@ console load Cdog/ExtendedCSides/7SummitC
 
 #CP-16
    8,R
-   2
+   1
 #spinner cycle
-   2
+   0
 #
   14,R,Z
    1,R,J
@@ -2725,4 +2725,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:07.482(25146)
+ChapterTime: 7:07.431(25143)
