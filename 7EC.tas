@@ -1,4 +1,4 @@
-RecordCount: 14151
+RecordCount: 14427
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -808,8 +808,7 @@ console load Cdog/ExtendedCSides/7SummitC
   24,L,U,X
    5
   15,U,Z
- 289
-   4
+ 293
 
 #lvl_d-00
   72
@@ -918,49 +917,59 @@ console load Cdog/ExtendedCSides/7SummitC
    1,R,J,G
   22,R,D
    8,R,J
-  23,U,Z
-   1,J
+  16,U,Z
+   2
+   8,U,C
   40
 
 #lvl_d-03
-  16,R
-  30,R,U,X
-  45,R,Z
+   1,U,C
+  22,R,J
+  15,R,X
+  15,R,Z
+  12
+  18,R
   15,R,X
   15,R,C
-  20,R,D
+  18,R
+   2,R,D
    7,R
-  15,R,X
-   3,R
+  15,R,Z
+   1,R
   15,L,X
-  16,D
+  14
+   2,D
    8
-   6,R
-   1
+   7,R
   15,U,X
-  15,R,C
+   2,R
+  18,R,C
+   1,R
   15,R,X
   15,R,C
-   9,R
+   8,R
    4,Z
    1,R,J
-   7,R
+   6,R
    2,R,J
   40
 
 #lvl_d-04
-   6,R,J
-   1,L,K,G
-   5,R,K
-  10,R
+   2,R,J
+   8,R,U,Z
+   1,L,J,G
+   2,R,J
+   5,R
+   2,R,J
+   4,R
   15,R,Z
   13,R
   14,R,Z
   53
-  15,L,C
-  15,L,U,X
+  15,L,X
+  15,L,U,C
   10,U,Z
-   3,J
+   3,R,J
   54
   15,U,X
    6,L
@@ -996,41 +1005,42 @@ console load Cdog/ExtendedCSides/7SummitC
   13,L,K,G
   19,R,J
    3,J
-   1,K,G
-   3,R,K
-   3,K
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
-   1,R,K
+  12,K,G
   11,J
   41
   11,R
   15,R,U,X
   15,R,Z
-  15,R,D
-  75,L
+  14,R
+   4,R,D
+  38
+  34,L
   37,L,U,X
   15,L,D,C
   15,L
-  12,J,G
+   1,J,G
+   2
+   9,J,G
    1,L,K,G
    3,L,K
+   2,L
+   6
    1,L
-   8
-   1,L
+  15,D,X
+Repeat 9
+   2,R,D
+   2,L,D
+EndRepeat
+   3,D
    1,R,J
-   7,J
-  23,L,X
-   1
-   1,L
-  14
-  15,U,C
-  30
-   7,D
-  41
-   7,R
+   5,J
+   2
+  15,L,X
+  14,L
+   1,D
+  11,D,X
+  38
+  10,R
   15,U,X
   14,R,Z
    1,R,J
@@ -1462,7 +1472,7 @@ console load Cdog/ExtendedCSides/7SummitC
 #   8,L,X
 # 100,R,J
 ##
-  10,U,Z
+  10,U,X
   10,R,J
    3,J
    1,R,J
@@ -1998,7 +2008,6 @@ console load Cdog/ExtendedCSides/7SummitC
 
 #CP-16
    8,R
-   1
 #spinner cycle
    0
 #
@@ -2018,9 +2027,8 @@ console load Cdog/ExtendedCSides/7SummitC
    7,R,D
 StunPause
   29,R,D
-#not possible to save
-#a pause because
-#rounding error :(
+#close vertically to
+#saving a pause
 EndStunPause
   13,R,D
 
@@ -2508,9 +2516,7 @@ EndStunPause
   10,R
   15,R,X
   13,R,C
- 159
-  40
-
+ 199
 #lvl_g-03
 #CP-2
    4,R
@@ -2576,22 +2582,24 @@ EndStunPause
    5,R,J
    7,R
   15,R,Z
-  12,D
-   4,R,D
-   1,D
-   6,R,D
-  15,R,Z
-  15,R,V
-  13,R,Z
+  12
+   5,R
+   3
    2,R
-   8,R,D,X
-   8,R
-  17,R,U,X
-  16,R,C
-  15,L,D
-   1,L,J
+   2,D
+  14,R,Z
+   1,R,J
   14,R,D,X
-   1,J
+   1,R,J
+  13,R
+  15,R,U,X
+  15,R,C
+  14
+   2,L,D
+   1,L,J
+   1,L
+  14,R,D,X
+   1,R,J
    1
    7,R
    1
@@ -2611,22 +2619,22 @@ EndStunPause
    7,R,J
   15,R,X
   12
-   8,R,J
-   3,R
+   1,R
+   6,R,J
+   6,J
   15,U,X
   14,R,Z
-   4,R,J,G
+   1,R,J,G
+   2
+   1,R,J,G
    7,R
   15,R,Z
-  15,R,V
-   2,R,D
-  15,R,Z
-   2,R,D
-  15,R,V
-   2,R,D
-  15,R,Z
-   3,R,D
   14,R,V
+   1,R,J
+  15,R,D,X
+  15,R,Z
+  15,R,V
+  13,R,Z
   22,R,J
   14,R,D,X
    1,R,J
@@ -2725,4 +2733,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:07.431(25143)
+ChapterTime: 7:06.938(25114)
