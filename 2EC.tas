@@ -1,4 +1,4 @@
-RecordCount: 5313
+RecordCount: 5578
 
 console load Cdog/ExtendedCSides/2OldSiteC
    1
@@ -125,10 +125,9 @@ console load Cdog/ExtendedCSides/2OldSiteC
   17,U,X
    5,L
   11,L,X
-   1,R,J
-   1,R,K
-   5,R
-  13,R,C
+   4,R,J
+   3,R,K
+  12,R,X
    4,R,J
    2,R,K
    9,R
@@ -312,16 +311,15 @@ console load Cdog/ExtendedCSides/2OldSiteC
   21,R,U,X
   15,L,U,C
    4,R,G
-   2,J
-   2,L,J
-   6,L,K
-  12,L,X
-   4,R,G
-   2,R,J,G
-  12,R,X
-   6,R,J
-  12,R,K
-  20,U,X
+   2,J,G
+   1,L,J
+   3,J
+   1,R,K
+   5,R
+   5,R,J
+   1,R,K,G
+  19,R,J,G
+  21,U,X
    9,U,C
    3,R,J
    2,J
@@ -835,4 +833,4 @@ console load Cdog/ExtendedCSides/2OldSiteC
   15,U,X
  135
 
-ChapterTime: 1:51.197(6541)
+ChapterTime: 1:51.044(6532)
