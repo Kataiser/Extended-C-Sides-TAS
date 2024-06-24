@@ -1,4 +1,4 @@
-RecordCount: 15905
+RecordCount: 15945
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -209,12 +209,11 @@ console load Cdog/ExtendedCSides/7SummitC
 #  15,R,Z
 #  15,R,U,X
 ##
-  43
-  14,U,X
-   4,J
-  10,R,J
-  31,R,D
-  12,R,Z
+  41
+  12
+  18,R
+  15,R,Z
+  24,R,U,X
   41
   22,R
   15,R,U,Z
@@ -2752,4 +2751,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:05.765(25045)
+ChapterTime: 7:05.697(25041)
