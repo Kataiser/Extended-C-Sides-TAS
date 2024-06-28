@@ -1,0 +1,47 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,1EC,Start
+
+Read,LoadEC
+
+Read,2EC,Start
+
+Read,LoadEC
+
+Read,3EC,Start
+
+Read,LoadEC
+
+Read,4EC,Start
+
+Read,LoadEC
+
+Read,5EC,Start
+
+Read,LoadEC
+
+Read,6EC,Start
+
+Read,LoadEC
+
+Read,7EC,Start
+
+Read,LoadEC
+
+Read,8EC,Start
+
+   1,S
+   1,U,J
+   1,O
+  31
+  51
+   1,S
+   1,X
+  42
+   1,N
+  52
+   1,R
+
+FileTime: 26:18.705(92865)
