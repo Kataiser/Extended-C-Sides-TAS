@@ -1,4 +1,4 @@
-RecordCount: 7659
+RecordCount: 8102
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -75,9 +75,10 @@ console load Cdog/ExtendedCSides/8CoreC
    1
    9,R,U,Z
    1,R,J,G
-   8,R,K,G
-   1,K
-   5
+   1,R,K,G
+   6,K
+   2,R,K
+   5,R
   15,R,D,X
   11,R,D
    6,R,J
@@ -85,22 +86,22 @@ console load Cdog/ExtendedCSides/8CoreC
   13,R,Z
    1,R,J,G
    2,R
-  23,R,J,G
-   1,R
-   7,R,J
-  15,R,U,X
-   1
+  22,R,J,G
+   8,R
+  14,R,U,X
+   2
    5,R
    1,R,J,G
    1,R,K,G
-  10,R
+   8,R
+   2,R,K
    1,R,J
   14,R
    6,R,J
   40
 
 #lvl_a-01
-  21,R,J
+  19,R,J
   17,R,D,X
    1,R,J
   10,R,D
@@ -120,9 +121,11 @@ console load Cdog/ExtendedCSides/8CoreC
    4,R
    1
    2,R,J
-  17,R,D
-   6,D,J
-   3,R,J
+   4,R
+   4,D
+   9,R,D
+   1,D,J
+   8,R,J
    5,R
    4,R,J
   12,R
@@ -131,13 +134,13 @@ console load Cdog/ExtendedCSides/8CoreC
   18,R,D,X
   15,R,Z
   34,R
-  20
-  11,R
-  25,R,J
-   5,R,Z
+  12
+  17,R
+  24,R,J
+   6,R,Z
    1,R,J
-   6,R
-   2,R,J
+   7,R
+   1,R,J
    5,R
   40
 
@@ -218,7 +221,6 @@ console load Cdog/ExtendedCSides/8CoreC
    1,G
    1,D,G
    6,G
-   0,G
   16,U,G
    1,G
    4,Z
@@ -233,6 +235,24 @@ console load Cdog/ExtendedCSides/8CoreC
    7,R
   50,R,J,G
    1,K
+
+#   8,R,K
+#  18,R
+#   1,R,J
+#  14,R
+#   1,R,J
+#   5,R
+#   3,R,J
+#   1,R,J
+#   1,K,G
+#   5,R,K
+#   3,K
+#  26,L,D
+#   3,L,J
+# 100,L
+#I don't want to redo
+#this room
+
   35,R,K
    1,R,J
   15,R
@@ -1166,7 +1186,7 @@ console load Cdog/ExtendedCSides/8CoreC
  303
 
 #Spinner Cycle for [lvl_d-00b]
-   0
+   1
 
 #lvl_c-04
    7,L,Z
@@ -1699,4 +1719,4 @@ console load Cdog/ExtendedCSides/8CoreC
    7,L,U,C
   97,R
 
-ChapterTime: 4:31.983(15999)
+ChapterTime: 4:31.915(15995)
