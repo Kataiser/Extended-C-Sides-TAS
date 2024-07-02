@@ -1,4 +1,4 @@
-RecordCount: 8102
+RecordCount: 8645
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -327,52 +327,64 @@ console load Cdog/ExtendedCSides/8CoreC
   40
 
 #lvl_a-04
-   5,R
-   8,R,J
-  13,L,D,X
+   9,R
+   4
+   4,X
+  10,L,D,X
    1,R,J
    7,R
-   1,R,J
-   3,J
-  11,R,J
-   7,R,K,G
-   1
-  18,R
-  10,R,J,G
-  21,R
-  22,R,U,X
-  14,R,C
-   9,R,J,G
-   7,R
-   2,R,J
-  30,R
-   1
-   1,R
-   1
-   4,R,J,G
-   5,R
-   1,R,J
-  49,R
-  15,R,X
-  45,R
-  11,L
-  13,L,X
   12,R,J
+   3,R
+   5,R,J,G
+   5,R
+   1,J
+   1,R,J
+  12,R
+  26,R,J,G
+  10,R
+   3,R,D
   18,R
+  14,R,Z
    1,R,J,G
-  11,R
+   1,K,G
+   9,R
+   4,L
+   2,R
+   1,L
+  36,R
+   2
+   2,G
+   5,R,X
+   1,R,J,G
+   2,R,K,G
+   3,R,J,G
+  30,R,K,G
+  15,R,U,X
+   3,R
+   3
+   1,R
+## couldn't dash cb 
+  15,R,X
+   2
+   1,R,J,G
+   3,R,K,G
+  12,R
    1,R,J
   14,R
-   2,R,J
+   1,R,J
+  12,R
   40
 
 #lvl_a-05va
-   1,R,J
-   7,R
-  15,R,D,X
    2,R
-  21,L
-   3,R
+  12,R,J
+  15,R,D,X
+   7,R
+  17
+   1,R
+   1
+   1,R
+   1
   35,R,J
   15,R,Z
    8,R
@@ -1255,6 +1267,30 @@ console load Cdog/ExtendedCSides/8CoreC
   19,R
    7,R,D
    6,L,D
+## -9f need resync
+#   3,L
+#   1
+#   2,L
+#  11,G
+#  17,U,G
+#   4,G
+#   1,R,J
+#  14,R,U,X
+#   1,R,J,G
+#   1,J
+#   8,R,J
+#   7,R
+#  10,R,D,X
+#   3,R,J,G
+#  16,R
+#   3,R,J
+#   4,R
+#  43
+#  10,R,D,X
+#   1,J,G
+#  11,R
+#  21,R,J
+##
    3,L
    1
   22,L,G
@@ -1318,47 +1354,39 @@ console load Cdog/ExtendedCSides/8CoreC
    1,R,J
   11,R,K
    5,R
-
-#idea: get more speed
-#to hit the core switch mid-jump
-#
-#this was the best I could do, +6 speed.
-#Impossible to cornerboost though,
-#and it doesn't even get the switch
-#   4,R,J,G
-#   6,R
-#   1,R,J
-#   1,R
-#   8,L
-#   5,D
-#   4,G
-#   1,L
-#  10,G
-#   1,G
-#   1,U,G
-#   1,G
-#   1,U,G
-#   1,G
-#   1,U,G
-#   1,G
-#   8,U,G
-#   2,G
-#   3,R
-#   4,Z
-#  16,R,J
-#Invoke,Player.MoveV,-1.75
-#   4,R,K,G
-#  13,R
-#  40
-#   1,R,J
-#   3,R
-#   8,R,D,X
-#   1,R,J,G
-#  12,R
-#  60,R,J
-
    4,R,J,G
    8,R
+## hit the core switch mid-jump
+#   8,L
+#   3,D
+#   1,L,D
+#   1,D
+#   1,L,D
+#   8,D,G
+#   4,G
+#  20,U,G
+#   1,R,J
+#   8,R
+#  14,R,U,X
+#   1,R,J,G
+#   5,R
+#   2,R,J
+#   1,R
+#   4
+#   3,R,J
+#  40
+#   3,R
+#   9,R,D,X
+#   1,R,J,G
+#  12,R
+#  30,R,J
+#  12,R
+#  15,R,X
+#   1,R
+#   6,L
+#   3
+# 100,R
+## need bumper resync
    8,L
    2
    2,D
@@ -1506,8 +1534,7 @@ console load Cdog/ExtendedCSides/8CoreC
    1,R,J
    6,R,D,X
    1,R,J,G
-   1
-  11,R
+  12,R
    3,R,J
   40
 
@@ -1518,12 +1545,12 @@ console load Cdog/ExtendedCSides/8CoreC
    3,R
    7,R,D,X
    1,R,J,G
-   1,R
-   1
-   9,R
+  11,R
    1,R,J
-  10,R,K,G
-   3,R
+   1,R,K,G
+   2,R
+   8,R,K,G
+   2,R
   15,R,D,X
    1,R
    1,R,J
@@ -1719,4 +1746,4 @@ console load Cdog/ExtendedCSides/8CoreC
    7,L,U,C
   97,R
 
-ChapterTime: 4:31.915(15995)
+ChapterTime: 4:30.895(15935)
