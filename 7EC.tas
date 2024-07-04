@@ -1,4 +1,4 @@
-RecordCount: 16819
+RecordCount: 17522
 
 #console load Cdog/ExtendedCSides/7SummitC 6160 -1328
 #play,500M,37
@@ -1728,19 +1728,14 @@ console load Cdog/ExtendedCSides/7SummitC
 #3000M
    6,R
    1,X
-   2,R,J
-  13,L,D,X
+   3,L,J
+  14,L,D,X
    1,L,J
    4,L
-  14,L,J
-   4,J
-   1,L,J
-   2,J
+  13,L,J
+   6,J
   11,U,X
-   2,R,J
-   3,J
-   2,R,J
-   1,J
+   8,R,J
   18,R,U,X
   15,R,U,C
   12,U,X
@@ -1749,14 +1744,15 @@ console load Cdog/ExtendedCSides/7SummitC
   13,U,C
   20,R,J
   15,R,U,X
-  10,R,C
-   4,R,J
 
 #CP-24
-  14,R,Z
+  10,R,C
+   5,R,J
+   2,R,K,G
+  11,R,D,X
    1,R,J
    4,R
-  17,R,J
+  16,R,J
   15,R,U,X
   14,R,U,C
    4,R,J,G
@@ -2009,7 +2005,7 @@ console load Cdog/ExtendedCSides/7SummitC
 #CP-16
    8,R
 #spinner cycle
-   0
+   1
 #
   14,R,Z
    1,R,J
@@ -2422,14 +2418,14 @@ EndStunPause
   15,L,Z
    2,L,D
   14,L,V
-   1,L,J
-   1
-  15,L,D,X
-   7,L
-  15,U,X
+   4,L,J
+   1,L
   15,L,Z
-   3,L,D
-  14,L,Z
+   8,L,U,X
+   2,L,J,G
+   7,L
+  15,L,Z
+  14,L,V
    1,L,J
   15,L,D,X
    4,L,D
@@ -2747,4 +2743,4 @@ repeat,56
 endrepeat
    1,R,D
 
-ChapterTime: 7:03.623(24919)
+ChapterTime: 7:03.538(24914)
