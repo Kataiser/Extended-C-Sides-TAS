@@ -1,4 +1,4 @@
-RecordCount: 9991
+RecordCount: 10132
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -8,7 +8,7 @@ console load Cdog/ExtendedCSides/8CoreC
   57
 
 #Spinner Cycle for [lvl_b-04]
-   0
+   1
 
 #lvl_00
 #spawn is located 4px further right than 8B,
@@ -137,13 +137,14 @@ console load Cdog/ExtendedCSides/8CoreC
   15,R,Z
   21,R,D
   10,R
-  14
-  17,R
-  24,R,J
-## +3f for subpx, could be better 
-   2,R,J
+  13
+   4,R
+   1
+  11,R
+   1
    1,R
-##
+  22,R,J
+   4,R,K,G
    5,R,Z
    1,R,J
    2
@@ -552,25 +553,25 @@ console load Cdog/ExtendedCSides/8CoreC
   25,R
    5,R,D
   14,R,Z
-  30,R,J
-   2,K,G
-   1,L,K
-   1,R,K
-  14,R,J,G
-   2,R,K,G
-  14,R
    8,R,J
-   5,R
-   4,R,J
-   1,R,J,G
+   6,R
+   5,R,J
+  14,R,U,Z
+  15,R,J,G
    1,R,K,G
-   8,R
-   3
-   2,R
+   7,R
+  20,D
+   4,R,D
+   1,D
+  13,R,D
+  25,R,J
+   2,J
+  11,L,K
   12,R,J
+  12,R
+   2,R,J
   10,R
-  15,R,Z
-  39,R
+   1
   14,R,Z
   21,R,J
   15,R,U,X
@@ -770,12 +771,15 @@ EndStunPause
    1,R,J
   18,R
    4,R,J,G
-   7,R
-   5,R,J
-  14,R
+   5,R
+   7,R,J
+   1,R
+  10,R,J
+   4,J
   15,R,U,Z
-   9,R
-  24,G
+   1,R,J
+   7,R
+  22,G
    4
    4,J,G
    1,R,K,G
@@ -1221,7 +1225,7 @@ EndStunPause
  303
 
 #Spinner Cycle for [lvl_d-00b]
-   2
+   1
 
 #lvl_c-04
    7,L,Z
@@ -1769,4 +1773,4 @@ EndStunPause
    7,L,U,C
   97,R
 
-ChapterTime: 4:27.631(15743)
+ChapterTime: 4:27.529(15737)
