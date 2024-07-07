@@ -1,4 +1,4 @@
-RecordCount: 11733
+RecordCount: 11949
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -691,70 +691,6 @@ console load Cdog/ExtendedCSides/8CoreC
    1,R,J
    7,R
    7,R,J
-## stunless +15f
-#  18,R,U,Z
-#   1,R,J
-#   1,R,K
-#   5,R
-#   9,R,K
-#   6,U,X
-#  27,R,J
-#  13,R
-#   5,R,D
-#  17,D
-#  20,L,G
-#   1,G
-#  10,D,G
-#   1,G
-#  16,R,J
-#   1,R,K,G
-#   3,R
-#  22,D
-#  11,R,Z
-#   8,R,J
-#   5,R
-#  20,R,J
-#  14,G
-#   3,J,G
-#   1,L,J
-#  14,R,K,G
-#   1,R,J,G
-#   1,R,K,G
-#   5,R
-#   1,R,K
-#   7,R
-#   5,R,J
-#  18,R
-#  11,R,D
-#  15,R,X
-#  15,R,C
-#   2,R
-#   7
-#   1,L,J,G
-#   4,L
-#  16,D
-#  15,L,G
-#  17,U,G
-#  14,R,J
-#   1
-#   1,R,J,G
-#  28,R,D
-#   3,D
-#   7,R,J
-#  21,R
-#  23,R,J
-#   2
-#   4,R
-#   1,R,J,G
-#   1,R,K,G
-#  13,R
-#  10,R,J
-#   7,R
-#   2,R,J
-#  11,R
-#   2,J,G
-#   3
-##
   17,R,U,Z
    1,L
    1,J
@@ -766,44 +702,101 @@ console load Cdog/ExtendedCSides/8CoreC
   27,R,J
   13,R
    5,R,D
-  17,D
-  20,L,G
-  12,U,G
-   1,R,J
-  13,R,U,Z
-  10,R,J,G
-StunPause
-   5,R
-   1,J
-  11,R,J
-EndStunPause
-   8,R
-   3,R,K,G
-  28,R
-   1,J,G
+  16,D
+## +2f stun
+#   1,D
+#  20,L,G
+#  12,U,G
+#   1,R,J
+#  13,R,U,Z
+#  10,R,J,G
+#StunPause
+#   5,R
+#   1,J
+#  11,R,J
+#EndStunPause
+#   8,R
+#   3,R,K,G
+#  28,R
+#   1,J,G
+#   9,R
+#  11,L,D
+#  16,G
+#  16,U,G
+#  15,R,J
+#   1,R,K,G
+#   2
+#  24,R
+#   4,R,D
+#   2,D
+#   7,R,J
+#  21,R
+#  23,R,J
+#   2,J
+#   4,R
+#   3,R,J,G
+#  15,R
+#  10,R,J
+#   5,R
+#   2,R,J
+#  13,R
+#   2,J,G
+#   3
+##
+   1
+   6,L,G
+   3,D,G
+   4,G
+  19,U,G
+  10,R,J
    9,R
-  11,L,D
-  16,G
-  16,U,G
+   1,R,J
+   1,J
+  12
+   3,R,D
+   1,D
+   1
+  11,L,Z
+   1,R,J
+   6,R
+   4,R,D
+  11,R,J
+   5,R
+  19,R,J
+   1,K,G
+   1,L
+  14,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R
+   3
+   1,R
+   7,R,J
+  33,R,D
+   3,R
+   1,R,D
+  15,R,U,Z
+   6
+  15,R
+   3,R,J,G
+   9,R
+  14,L,D
+  35,U,G
   15,R,J
    1,R,K,G
-   2
-  24,R
-   4,R,D
-   2,D
+  31,R,D
    7,R,J
-  21,R
-  23,R,J
-   2,J
-   4,R
-   3,R,J,G
-  15,R
-  10,R,J
    5,R
    2,R,J
-  13,R
-   2,J,G
-   3
+  15,R,D
+  12,R,J
+  10,R,X
+   8,R,J,G
+   1
+  15,R
+   1,R,J,G
+   1,L,J
+   4,R
    8,L,Z
    1,R,J
   10,R
@@ -1800,4 +1793,4 @@ EndStunPause
    7,L,U,C
   97,R
 
-ChapterTime: 4:22.021(15413)
+ChapterTime: 4:21.970(15410)
