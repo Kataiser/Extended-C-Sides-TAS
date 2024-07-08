@@ -1,4 +1,4 @@
-RecordCount: 7732
+RecordCount: 7764
 
 console load Cdog/ExtendedCSides/5MirrorTempleC
    1
@@ -137,16 +137,14 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
    7,R,X
    8,R,J,G
   16,R,D,X
-  15,R,C
-   1,G
-  10,R,J,G
-   1
-   6,R
+   7,R
+  11,R,U,X
+   9,J,G
+   4,R,J
+   1,R,K,G
    1,R,J,G
-   5,R
-   1,R,J
-   6,R
-  23,D
+  13,R,D
+  22,D
   18,R,X
   14,R,C
    1,L,J
@@ -369,7 +367,7 @@ console load Cdog/ExtendedCSides/5MirrorTempleC
 #lvl_b-00 (1)
   11,L
 ## spinner cycle
-   2,G
+   0,G
 ##
   15,D,X
    2,D
@@ -1490,4 +1488,4 @@ Repeat 21
 EndRepeat
    1,R,J
 
-ChapterTime: 3:10.519(11207)
+ChapterTime: 3:10.468(11204)
