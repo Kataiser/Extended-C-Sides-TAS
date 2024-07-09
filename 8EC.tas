@@ -1,4 +1,4 @@
-RecordCount: 12920
+RecordCount: 13372
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -700,46 +700,6 @@ console load Cdog/ExtendedCSides/8CoreC
   13,R
    5,R,D
   16,D
-## +2f stun
-#   1,D
-#  20,L,G
-#  12,U,G
-#   1,R,J
-#  13,R,U,Z
-#  10,R,J,G
-#StunPause
-#   5,R
-#   1,J
-#  11,R,J
-#EndStunPause
-#   8,R
-#   3,R,K,G
-#  28,R
-#   1,J,G
-#   9,R
-#  11,L,D
-#  16,G
-#  16,U,G
-#  15,R,J
-#   1,R,K,G
-#   2
-#  24,R
-#   4,R,D
-#   2,D
-#   7,R,J
-#  21,R
-#  23,R,J
-#   2,J
-#   4,R
-#   3,R,J,G
-#  15,R
-#  10,R,J
-#   5,R
-#   2,R,J
-#  13,R
-#   2,J,G
-#   3
-##
    1
    6,L,G
    3,D,G
@@ -900,17 +860,21 @@ console load Cdog/ExtendedCSides/8CoreC
    1,R,J,G
    9,R
   12,R,J
-   7,R
+   2,R
+   3
+   1,R
+   1
   35,G
    1
-   7,L,J
-  28,L,K
+   1,J
+   3,L,J
+   3,J
+  27,L,K
    1,K
-   1,L,J,G
-   1,R,J
-   7,L,J
-   6,L
-   2,L,J
+   3,J,G
+   5,L,J
+   5,L
+   3,L,J
    2,L
    1,L,J
    5,L
@@ -928,40 +892,40 @@ console load Cdog/ExtendedCSides/8CoreC
    1,L,J
    4,L
   29,L,J
-  27,G
-  21,R,J
-  14,R,Z
-  11,R,J
-   5,R
-   1,R,J
-   7,R
-  20,L
-   8
-   4,J
-  18,L,J
-  11,L,Z
-  29,L,J
   22,G
    4
    1,J
-   7,R,J
-   1,J
-   1
-   4,R,K
-   5,R
+   2,K,G
+  14,R,K
+  14,R,Z
+  14,R,J
+  11,R
+   1,L
+  30
+  18,L,J
+  11,L,Z
+  29,L,J
+  14,G
+   6,J,G
+   2,R,J
+   9,K
    2,R,K
-   1,R
-  27,G
-   6
-   9,L,J
-  11,L,K
-   1,L
+   1,K
+   5,R,J
+   7,R
+  20,G
+   4
    1,J,G
-   1,R
+   1,R,J
+   2,L,J
+  10,K
+   2,L,K
+   1
+  10,L,J
    1,L
-   1,K,G
-   4,R,K
-   6,R
+   3,K
+   7,R,K
+   2,R
    1,R,J,G
    7,R,K,G
    9,R
@@ -980,17 +944,24 @@ console load Cdog/ExtendedCSides/8CoreC
    9
   14,L,G
   29,R,J
-  34,G
+  31,G
    4
-  11,J,G
-  40,J
+   2,J,G
+   1,L,J
+   1,R,J
+   9,K,G
+  40
 
 #lvl_c-01
-   8,L,J
-   2,J
-   1,R,K
-  22,R,J
-   8,K,G
+   2,R
+   4,L
+   1,R
+   1,L
+   1,K
+   2,J,G
+  18,R,J
+   1,R
+  10,K,G
    1,L,K
    1,J
    1,L,J
@@ -1010,39 +981,36 @@ console load Cdog/ExtendedCSides/8CoreC
   32,G
    1,L
   33,L,J
-  32,G
-   3,R
-   4,R,X
-  30,R,J
-   3,J
-  16,L,K
-  16,R,J
-  20,L,K
-   2,K
-   1,J
-  25,L,J
-   2,L,K,G
-   5,L
-   2,L,K
-   8,L
-   9,L,J
-   5,L
-   2,L,J
-   6,L
+   7,G
+   6,D,G
+  15,U,G
+   5,G
    1
+  11,R,J
+  27,R
+  21,R,J
+  17,L,K
+  17,R,J
+  22,L,K
+   6,J,G
+   3,R,J
+   5,L,X
    1,L,J,G
-  14,L
-   9,L,J
-   6,L
-   2,L,J
-   6,L
-   1,L,J,G
-  34,L
+   7,L,J
+   9,L
+   7,L,J,G
+  11,L,J
+   1,L
+   1,L,J
+  28,L
    1,R,J
   14,U,X
-  29,R,J
+  39,R,J
   14,R,X
-  51,R,J
+   9,R,J
+  22,R
+   8,R,J
+   3,L,J
    8,L,K
   10,L
   25,L,U,Z
@@ -1313,58 +1281,31 @@ console load Cdog/ExtendedCSides/8CoreC
   19,R
    7,R,D
    6,L,D
-## -9f need resync
-#   3,L
-#   1
-#   2,L
-#  11,G
-#  17,U,G
-#   4,G
-#   1,R,J
-#  14,R,U,X
-#   1,R,J,G
-#   1,J
-#   8,R,J
-#   7,R
-#  10,R,D,X
-#   3,R,J,G
-#  16,R
-#   3,R,J
-#   4,R
-#  43
-#  10,R,D,X
-#   1,J,G
-#  11,R
-#  21,R,J
-##
    3,L
    1
-  22,L,G
-  10,U,G
-   1,R
-   4,Z
-  11,R,J
-   1,R,K,G
-  15,R
-  14,R,X
-   9,R,J,G
-   2,R
-  12,R,D,X
+   2,L
+  11,G
+  17,U,G
+   4,G
+   1,R,J
+  14,R,U,X
    1,R,J,G
-   1,R
-   1
-   9,R
    1,J
-   2,R,J
+   8,R,J
+   7,R
+  10,R,D,X
+   3,R,J,G
+  16,R
+   3,R,J
+   3,R
+   3
+   1,R
   40
 
 #lvl_c-05
-   2,J
-   9,R,D,X
+  10,R,D,X
    1,J,G
-   1,R
-   1
-   9,R
+  11,R
   38,R,J
   15,R,U,X
   30,R
@@ -1626,17 +1567,16 @@ console load Cdog/ExtendedCSides/8CoreC
    5,R
   11,R,U,X
    1,R,J,G
-## maybe not stall here for better camera for stun?
    3,R
-   9,R,D,X
-   1,R
+  10,R,D,X
 Stunpause
    6,R
 EndStunPause
    9,R,D
    4,R,J
    7,R,K,G
-  19,R,D
+  16,R
+   3,R,D
    9,R,D,J
   15,R,D,X
   17,R,D,C
@@ -1648,36 +1588,42 @@ EndStunPause
   23,R,D,X
    2,R,J
   15,R,D,X
-   2,R,D
+   1,R,D
+   1,R
    7,R,U,Z
    7,R,J,G
    3,R,K,G
-   5,R
-   3,R,J
-  14,R,K,G
-   6,R,D,X
-  10,R,J,G
-## speed manip for upright rcb could be optimized
-   4
+   1,K
+   5
+   2,R
+  13,R,J
+   5,R,D,X
+   8,R,J,G
+   1,J
+   1
+   1,R
+   1
   20,R
    1,J
    1,R
   13,R,U,Z
-   1,L,J,G
-   8,R,J
-   6,R,D,X
+   2,L,J,G
+   6,R,J
+   7,R,D,X
   40
 
 #lvl_d-01
-   9,R,D,X
-## didnt try anything else much
+   8,R,D,X
    1,R,J
-   2,R
+   4,R
   15,R,D,X
-  15,R,D,C
-  13,R,D
-  58,R
-  14,R,X
+  35,R
+   4,R,D
+   1,R,J
+  15,R,D,X
+   7,R
+  15,R,D,X
+   6,R
  135
 
-ChapterTime: 4:05.174(14422)
+ChapterTime: 4:03.865(14345)
