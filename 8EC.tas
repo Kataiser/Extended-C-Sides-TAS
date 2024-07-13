@@ -1,4 +1,4 @@
-RecordCount: 13372
+RecordCount: 13684
 
 console hearts 7
 console load Cdog/ExtendedCSides/8CoreC
@@ -101,47 +101,47 @@ console load Cdog/ExtendedCSides/8CoreC
   40
 
 #lvl_a-01
-   5,R,J
-   5,R
-  11,R,J
-   4,X
-   8,R,D,X
-   1,R,J
-  14,R,D
+   9,R,D,X
+   4,R,J
+   3,R
+   4,R,J
+  10,R
    2,G
    5,R,X
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   1,R,K
    1,R,J,G
    1,R,K,G
-   7,R
-   1,R,D,J
-   3,J
-   1
-   4,R
-   1,R,J
-   1,R
+   5,R
    2
-  14,R
-   9,R,D,J
-   6,R
-  18,R,D,X
+   1,R,D,J
+   3,R,J
+   2
+   1,R
+   1
+   1,R
+   1,R,J
+  17,R
+  10,R,D,J
+   9,R
+   1,R,J
+   4,R
    3
   15,R,U,Z
-  15,R,U,C
-  12
-  10,R
+  15,R,U,X
+   3,R
+  18,R,D,C
+   2,R
   15,R,Z
-  21,R,D
-  10,R
+  20,R,D
+  12,R
   13
-   4,R
+   3,R
    1
-  11,R
-   1
-   1,R
+  13,R
   22,R,J
-   4,R,K,G
+   1,R,K,G
    5,R,Z
    1,R,J
    2
@@ -1217,7 +1217,7 @@ console load Cdog/ExtendedCSides/8CoreC
  303
 
 #Spinner Cycle for [lvl_d-00b]
-   1
+   0
 
 #lvl_c-04
    7,L,Z
@@ -1626,4 +1626,4 @@ EndStunPause
    6,R
  135
 
-ChapterTime: 4:03.865(14345)
+ChapterTime: 4:03.406(14318)
