@@ -1,4 +1,4 @@
-RecordCount: 5453
+RecordCount: 5543
 
 console load Cdog/ExtendedCSides/6ReflectionC
    1
@@ -1004,46 +1004,23 @@ AnalogMode,Ignore
   16
   14,R
   33,L,D
-
-# -6f but bumper cycles :(
-#  10,D
-#  17,L,D
-#  15,L,X
-#   1,L
-#  12,R,D
-#   6,R
-#  15,L,X
-#   7
-#   6,D
-#   7,L
-#  15,L,U,Z
-#  16
-#  11,L
-#   1,R,J
-#   8,R
-#  15,D,X
-#  18,R,D
-
   10,D
   17,L,D
   15,L,X
-   5
-   2,L
-   8,R
-   6,R,D
+   1,L
+  12,R,D
+   6,R
   15,L,X
-   1,R,J
-   3,L
-   9
+   7
+   6,D
    7,L
-  18,L,X
-   7,U,C
+  15,L,U,Z
   16
   11,L
    1,R,J
    8,R
   15,D,X
-  15,R,D
+  18,R,D
   28,D
   20,L,D
   27,R
@@ -1068,8 +1045,8 @@ AnalogMode,Ignore
    4,R
   15,R,Z
   18,R
-  15,D
-  11,L,D
+  14,D
+  12,L,D
   30,R
   14,R,Z
    1,R,J,G
@@ -1510,4 +1487,4 @@ AnalogMode,Ignore
   14,R,U,X
  135
 
-ChapterTime: 3:53.631(13743)
+ChapterTime: 3:53.529(13737)
